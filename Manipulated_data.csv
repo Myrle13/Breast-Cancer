@@ -1,0 +1,4025 @@
+Age,Race,Marital Status,6th Stage,Survival Months,Status
+60+,White,Married,IIA,60,Alive
+50+,White,Married,IIIA,62,Alive
+50+,White,Divorced,IIIC,75,Alive
+50+,White,Married,IIA,84,Alive
+40+,White,Married,IIB,50,Alive
+50+,White,Single ,IIA,89,Alive
+50+,White,Married,IIA,54,Alive
+40+,White,Married,IIB,14,Dead
+40+,White,Divorced,IIIC,70,Alive
+60+,White,Married,IIIC,92,Alive
+60+,White,Widowed,IIA,64,Dead
+40+,White,Married,IIIA,92,Alive
+60+,White,Married,IIB,56,Alive
+40+,White,Married,IIIA,38,Alive
+60+,White,Divorced,IIIC,64,Alive
+60+,White,Married,IIA,49,Alive
+50+,White,Single ,IIB,105,Alive
+40+,White,Married,IIB,62,Alive
+40+,Black,Divorced,IIB,107,Alive
+60+,White,Divorced,IIB,77,Alive
+40+,Other,Married,IIB,81,Alive
+50+,White,Married,IIIA,50,Alive
+50+,White,Single ,IIB,78,Alive
+40+,White,Married,IIIA,102,Alive
+60+,White,Married,IIIC,98,Alive
+60+,White,Married,IIIC,70,Alive
+40+,White,Married,IIIC,102,Alive
+40+,White,Married,IIA,82,Alive
+50+,White,Divorced,IIIA,64,Alive
+60+,White,Married,IIB,86,Alive
+40+,White,Separated,IIB,52,Alive
+50+,White,Married,IIA,49,Alive
+50+,White,Single ,IIA,90,Alive
+60+,White,Married,IIA,62,Alive
+40+,Other,Married,IIIC,31,Alive
+50+,White,Married,IIA,77,Alive
+50+,White,Married,IIIA,37,Alive
+50+,White,Married,IIA,103,Alive
+40+,White,Married,IIB,82,Alive
+50+,Other,Divorced,IIIA,105,Alive
+50+,White,Single ,IIIC,42,Dead
+60+,White,Married,IIA,61,Alive
+60+,Other,Married,IIB,86,Alive
+50+,Black,Single ,IIIA,84,Alive
+50+,White,Married,IIA,63,Alive
+60+,White,Married,IIIA,90,Alive
+40+,White,Married,IIIC,39,Dead
+60+,White,Widowed,IIA,59,Alive
+50+,White,Married,IIIA,82,Alive
+60+,White,Widowed,IIA,82,Alive
+30+,White,Single ,IIB,71,Alive
+60+,White,Married,IIIA,71,Alive
+60+,Black,Married,IIIA,86,Alive
+60+,White,Married,IIIA,70,Alive
+50+,White,Married,IIA,74,Alive
+50+,White,Married,IIA,73,Alive
+60+,White,Married,IIB,91,Alive
+50+,White,Married,IIA,106,Alive
+50+,White,Married,IIA,73,Alive
+50+,White,Married,IIA,77,Alive
+50+,Other,Married,IIA,80,Alive
+50+,White,Married,IIA,49,Alive
+40+,White,Married,IIB,78,Alive
+50+,White,Married,IIIA,75,Alive
+60+,White,Divorced,IIA,60,Dead
+40+,White,Married,IIA,106,Alive
+30+,White,Married,IIIC,44,Dead
+40+,White,Married,IIA,85,Alive
+50+,Other,Divorced,IIA,79,Alive
+50+,White,Married,IIA,84,Alive
+40+,White,Married,IIIA,104,Alive
+60+,White,Married,IIIC,12,Dead
+30+,Black,Married,IIB,52,Alive
+60+,White,Married,IIA,98,Alive
+60+,White,Married,IIIC,85,Alive
+50+,White,Married,IIIA,95,Alive
+60+,White,Single ,IIIA,79,Alive
+40+,White,Married,IIB,106,Alive
+50+,White,Married,IIB,81,Alive
+60+,White,Married,IIA,55,Alive
+50+,White,Married,IIIC,101,Alive
+60+,White,Widowed,IIA,65,Alive
+60+,White,Married,IIB,72,Alive
+50+,White,Single ,IIA,55,Alive
+50+,White,Single ,IIA,65,Alive
+40+,White,Married,IIIC,71,Alive
+40+,White,Married,IIIA,82,Alive
+50+,White,Married,IIIA,84,Alive
+50+,White,Single ,IIA,95,Alive
+60+,White,Married,IIA,95,Alive
+50+,White,Married,IIIA,91,Dead
+30+,White,Married,IIA,57,Alive
+60+,Other,Married,IIIA,87,Dead
+40+,Other,Married,IIIC,40,Dead
+50+,White,Divorced,IIA,91,Alive
+60+,White,Married,IIB,50,Alive
+50+,White,Divorced,IIB,25,Dead
+60+,White,Married,IIB,73,Alive
+50+,White,Married,IIIB,63,Dead
+60+,White,Married,IIB,50,Alive
+30+,White,Single ,IIIC,54,Dead
+40+,White,Single ,IIA,73,Alive
+30+,White,Married,IIB,8,Alive
+50+,White,Married,IIB,53,Dead
+50+,White,Single ,IIB,65,Alive
+60+,White,Married,IIB,58,Alive
+50+,White,Married,IIB,24,Dead
+60+,White,Married,IIA,64,Alive
+30+,Black,Single ,IIB,106,Alive
+60+,White,Married,IIB,61,Alive
+60+,White,Married,IIIA,66,Alive
+30+,White,Married,IIIA,79,Dead
+40+,White,Single ,IIIC,74,Alive
+40+,White,Married,IIB,69,Alive
+50+,White,Married,IIIA,103,Alive
+50+,Black,Married,IIA,52,Alive
+50+,White,Married,IIIA,93,Alive
+60+,White,Divorced,IIIA,94,Alive
+40+,White,Married,IIB,91,Alive
+50+,Black,Widowed,IIB,57,Alive
+60+,White,Married,IIB,94,Alive
+40+,White,Divorced,IIIB,79,Alive
+50+,White,Single ,IIIC,62,Alive
+50+,White,Divorced,IIIA,86,Alive
+50+,Other,Married,IIA,49,Alive
+60+,White,Married,IIA,14,Dead
+30+,White,Married,IIB,100,Alive
+50+,White,Married,IIA,50,Alive
+50+,Other,Married,IIA,79,Alive
+40+,Black,Single ,IIA,77,Alive
+60+,White,Married,IIA,50,Alive
+50+,White,Married,IIIA,73,Alive
+50+,Black,Single ,IIA,96,Alive
+50+,White,Married,IIA,87,Alive
+50+,White,Single ,IIIA,41,Dead
+30+,White,Married,IIA,54,Dead
+40+,White,Married,IIB,84,Alive
+60+,White,Married,IIB,67,Dead
+60+,White,Single ,IIIC,53,Dead
+50+,White,Married,IIIA,104,Alive
+50+,White,Married,IIA,86,Alive
+30+,White,Married,IIIA,102,Alive
+40+,White,Married,IIA,50,Alive
+60+,White,Widowed,IIB,42,Dead
+50+,White,Married,IIB,52,Dead
+60+,White,Divorced,IIB,107,Alive
+40+,White,Married,IIA,92,Alive
+30+,White,Married,IIIA,52,Dead
+60+,White,Married,IIA,69,Alive
+50+,White,Married,IIB,82,Alive
+30+,White,Single ,IIA,101,Alive
+60+,White,Married,IIB,64,Alive
+60+,White,Married,IIA,55,Dead
+60+,Other,Married,IIIA,98,Alive
+60+,White,Divorced,IIA,56,Alive
+60+,White,Widowed,IIIA,91,Alive
+40+,White,Married,IIA,51,Alive
+30+,White,Married,IIA,102,Alive
+50+,White,Widowed,IIB,71,Alive
+50+,White,Married,IIIC,13,Dead
+50+,White,Married,IIIA,11,Alive
+50+,White,Married,IIA,53,Alive
+50+,White,Divorced,IIA,82,Alive
+50+,White,Divorced,IIA,89,Alive
+60+,White,Married,IIIA,56,Alive
+60+,Other,Widowed,IIIA,54,Alive
+50+,White,Married,IIIA,72,Alive
+30+,White,Single ,IIIC,102,Alive
+40+,White,Married,IIB,51,Alive
+50+,White,Married,IIA,100,Alive
+60+,Other,Widowed,IIB,62,Dead
+60+,White,Widowed,IIIA,73,Alive
+40+,White,Married,IIA,84,Alive
+60+,White,Married,IIA,87,Alive
+60+,White,Divorced,IIA,96,Alive
+40+,White,Married,IIIA,74,Alive
+50+,Black,Single ,IIIC,47,Dead
+40+,White,Married,IIA,77,Alive
+50+,White,Married,IIIC,55,Alive
+60+,White,Married,IIIA,64,Dead
+60+,White,Married,IIA,93,Alive
+60+,White,Married,IIB,74,Dead
+60+,White,Divorced,IIA,23,Dead
+40+,White,Married,IIB,60,Alive
+50+,Black,Married,IIIC,85,Alive
+60+,White,Single ,IIB,86,Alive
+60+,White,Married,IIIA,81,Alive
+50+,White,Divorced,IIB,71,Alive
+60+,White,Married,IIIA,90,Dead
+40+,White,Married,IIA,79,Alive
+50+,White,Married,IIB,60,Alive
+60+,White,Married,IIA,89,Alive
+60+,White,Single ,IIA,66,Alive
+50+,White,Divorced,IIB,84,Alive
+40+,White,Single ,IIIC,55,Alive
+60+,White,Married,IIA,50,Alive
+50+,White,Married,IIB,55,Alive
+50+,White,Married,IIIA,98,Alive
+50+,White,Married,IIB,53,Alive
+40+,White,Married,IIB,103,Alive
+50+,White,Married,IIB,77,Alive
+60+,White,Married,IIIA,63,Alive
+60+,White,Married,IIA,45,Dead
+50+,White,Single ,IIIC,25,Dead
+60+,Other,Widowed,IIA,68,Alive
+60+,White,Widowed,IIA,53,Alive
+50+,Other,Single ,IIB,91,Alive
+60+,Other,Married,IIB,105,Alive
+50+,White,Widowed,IIB,76,Alive
+40+,White,Divorced,IIIB,94,Alive
+40+,White,Married,IIIA,71,Alive
+30+,White,Married,IIIC,15,Dead
+50+,White,Married,IIIC,106,Alive
+60+,White,Married,IIA,56,Alive
+50+,White,Married,IIIA,56,Alive
+60+,Other,Single ,IIIA,16,Dead
+40+,White,Divorced,IIB,31,Dead
+60+,White,Divorced,IIIA,85,Alive
+60+,White,Married,IIA,62,Alive
+50+,White,Married,IIIC,23,Dead
+50+,White,Married,IIIC,24,Dead
+60+,Black,Widowed,IIIA,50,Dead
+40+,White,Single ,IIA,107,Alive
+40+,White,Married,IIB,76,Alive
+40+,White,Divorced,IIA,87,Alive
+40+,Black,Single ,IIA,101,Alive
+50+,White,Married,IIIA,60,Alive
+50+,White,Divorced,IIIA,66,Alive
+60+,White,Divorced,IIA,53,Alive
+60+,White,Married,IIIC,93,Alive
+50+,White,Married,IIB,90,Alive
+60+,White,Married,IIIA,59,Alive
+60+,White,Married,IIIA,58,Alive
+50+,White,Married,IIA,68,Alive
+60+,White,Married,IIA,94,Alive
+60+,White,Married,IIA,72,Alive
+40+,Other,Married,IIIC,53,Alive
+60+,White,Married,IIIA,103,Alive
+40+,White,Married,IIIC,16,Dead
+40+,White,Married,IIA,77,Alive
+40+,White,Married,IIB,49,Dead
+50+,White,Married,IIB,99,Alive
+60+,White,Married,IIB,107,Alive
+30+,Other,Married,IIIC,81,Alive
+40+,White,Married,IIIA,87,Alive
+60+,Black,Single ,IIA,103,Alive
+60+,White,Single ,IIA,96,Alive
+40+,White,Married,IIB,40,Dead
+30+,White,Divorced,IIA,78,Alive
+50+,Other,Married,IIA,92,Alive
+40+,White,Married,IIIA,106,Alive
+50+,Other,Married,IIB,54,Alive
+40+,White,Married,IIB,85,Alive
+30+,White,Single ,IIIA,69,Alive
+60+,White,Married,IIIA,51,Alive
+60+,White,Married,IIB,93,Alive
+50+,White,Single ,IIA,76,Alive
+60+,White,Married,IIA,58,Alive
+40+,Other,Married,IIB,79,Alive
+50+,White,Married,IIB,63,Alive
+40+,White,Single ,IIA,7,Alive
+40+,White,Married,IIB,104,Alive
+40+,White,Married,IIB,74,Alive
+60+,White,Married,IIA,67,Dead
+60+,White,Widowed,IIA,98,Alive
+60+,White,Single ,IIB,100,Alive
+60+,White,Married,IIA,58,Alive
+30+,White,Single ,IIIA,61,Alive
+60+,White,Married,IIB,45,Dead
+60+,Black,Married,IIIC,48,Alive
+30+,White,Married,IIIC,40,Dead
+50+,White,Widowed,IIB,57,Alive
+40+,White,Divorced,IIB,42,Alive
+50+,Other,Married,IIIA,76,Alive
+30+,White,Married,IIB,55,Alive
+50+,White,Divorced,IIA,68,Alive
+60+,White,Married,IIIA,49,Alive
+50+,Black,Single ,IIIC,16,Dead
+60+,White,Married,IIA,99,Alive
+50+,White,Married,IIIA,88,Alive
+60+,White,Divorced,IIA,87,Alive
+40+,White,Single ,IIA,60,Alive
+50+,White,Married,IIIC,34,Dead
+50+,White,Separated,IIB,92,Alive
+50+,White,Married,IIB,65,Alive
+50+,White,Married,IIIA,23,Dead
+50+,Black,Married,IIB,50,Alive
+50+,Other,Married,IIIC,107,Alive
+60+,White,Divorced,IIIC,92,Alive
+40+,White,Married,IIIC,51,Dead
+60+,White,Married,IIB,92,Alive
+60+,White,Divorced,IIA,61,Alive
+60+,White,Married,IIA,50,Dead
+40+,White,Married,IIIA,95,Alive
+40+,White,Married,IIIC,97,Alive
+60+,White,Married,IIA,65,Alive
+40+,White,Married,IIA,81,Alive
+60+,Other,Divorced,IIIA,81,Alive
+50+,White,Married,IIA,92,Alive
+60+,White,Married,IIIA,53,Alive
+40+,Other,Married,IIB,91,Alive
+40+,Other,Married,IIB,49,Alive
+40+,White,Married,IIA,61,Alive
+60+,White,Separated,IIIC,74,Alive
+60+,White,Married,IIIA,48,Alive
+50+,Black,Divorced,IIIC,37,Dead
+40+,White,Married,IIB,75,Alive
+50+,White,Married,IIIA,57,Alive
+50+,White,Married,IIB,81,Alive
+40+,White,Married,IIB,56,Alive
+50+,White,Single ,IIB,73,Alive
+60+,White,Married,IIIA,53,Alive
+50+,White,Married,IIIA,68,Alive
+50+,White,Married,IIIC,94,Dead
+40+,White,Married,IIA,88,Alive
+50+,White,Married,IIB,79,Alive
+40+,White,Single ,IIIA,63,Alive
+50+,White,Married,IIA,74,Alive
+40+,White,Married,IIIC,57,Alive
+60+,White,Widowed,IIB,53,Alive
+50+,Black,Divorced,IIA,104,Alive
+30+,White,Divorced,IIA,57,Alive
+30+,White,Married,IIIA,63,Alive
+60+,White,Divorced,IIIA,90,Alive
+50+,White,Married,IIB,73,Alive
+60+,White,Married,IIIA,94,Alive
+50+,White,Single ,IIIA,98,Alive
+40+,White,Single ,IIA,74,Alive
+60+,Black,Married,IIIB,89,Alive
+60+,White,Married,IIIA,89,Alive
+40+,White,Married,IIB,100,Alive
+40+,Black,Married,IIIC,16,Dead
+50+,White,Married,IIA,107,Alive
+50+,White,Married,IIA,70,Alive
+50+,White,Widowed,IIB,68,Alive
+40+,White,Married,IIA,81,Alive
+50+,White,Single ,IIIA,67,Alive
+60+,White,Single ,IIIA,67,Alive
+60+,White,Divorced,IIA,97,Alive
+40+,White,Married,IIB,60,Alive
+50+,White,Married,IIB,86,Alive
+60+,White,Single ,IIIA,75,Alive
+40+,White,Widowed,IIIA,59,Alive
+50+,White,Married,IIA,87,Alive
+60+,White,Married,IIIA,75,Alive
+50+,White,Married,IIIA,72,Alive
+40+,White,Single ,IIA,102,Alive
+40+,Other,Married,IIB,101,Alive
+50+,White,Single ,IIIA,68,Alive
+50+,White,Divorced,IIA,80,Alive
+40+,White,Married,IIIA,104,Alive
+50+,White,Divorced,IIIA,61,Alive
+50+,White,Married,IIA,41,Alive
+40+,Other,Married,IIA,100,Alive
+40+,White,Married,IIA,105,Alive
+60+,White,Married,IIB,57,Alive
+50+,White,Married,IIA,59,Alive
+60+,White,Divorced,IIB,54,Dead
+40+,White,Married,IIA,76,Alive
+60+,Other,Married,IIA,82,Alive
+50+,White,Married,IIB,53,Alive
+40+,White,Married,IIA,102,Alive
+50+,White,Married,IIIA,47,Dead
+50+,White,Married,IIB,100,Dead
+40+,White,Divorced,IIA,107,Alive
+60+,White,Married,IIIA,73,Alive
+50+,Black,Married,IIIA,91,Alive
+60+,White,Married,IIIA,92,Alive
+60+,White,Married,IIB,107,Alive
+60+,White,Married,IIIA,85,Dead
+50+,White,Married,IIIC,89,Alive
+40+,White,Married,IIIC,71,Dead
+60+,White,Married,IIA,102,Alive
+40+,Black,Widowed,IIIA,49,Alive
+30+,White,Married,IIIC,59,Alive
+50+,White,Married,IIIC,90,Alive
+50+,White,Divorced,IIIA,57,Alive
+30+,White,Single ,IIB,85,Alive
+40+,White,Married,IIB,86,Alive
+50+,White,Married,IIIA,100,Dead
+30+,White,Married,IIB,53,Alive
+40+,Other,Married,IIIA,54,Alive
+50+,White,Single ,IIIA,101,Alive
+60+,White,Single ,IIIA,98,Alive
+50+,White,Married,IIA,104,Alive
+50+,White,Single ,IIB,54,Alive
+40+,White,Married,IIA,91,Alive
+50+,White,Married,IIA,107,Alive
+60+,White,Married,IIB,76,Alive
+50+,White,Married,IIB,66,Alive
+40+,White,Divorced,IIIC,76,Alive
+50+,White,Married,IIIA,83,Alive
+40+,White,Married,IIIA,57,Alive
+50+,White,Married,IIIA,102,Alive
+30+,White,Married,IIIC,17,Dead
+50+,White,Single ,IIA,93,Alive
+40+,Black,Single ,IIIB,87,Alive
+30+,White,Single ,IIA,102,Alive
+60+,Other,Single ,IIIA,58,Alive
+60+,Black,Married,IIA,51,Alive
+50+,White,Single ,IIA,82,Alive
+50+,White,Married,IIIA,79,Alive
+50+,White,Widowed,IIA,56,Alive
+50+,White,Married,IIIB,51,Alive
+30+,White,Divorced,IIB,66,Alive
+50+,White,Single ,IIB,100,Alive
+50+,Other,Single ,IIB,92,Alive
+40+,White,Single ,IIB,104,Alive
+50+,Other,Married,IIA,91,Alive
+60+,White,Divorced,IIB,81,Alive
+60+,White,Married,IIIA,75,Alive
+60+,White,Married,IIB,85,Alive
+40+,White,Married,IIB,78,Alive
+40+,White,Divorced,IIA,45,Dead
+50+,White,Married,IIA,3,Alive
+40+,White,Married,IIB,64,Alive
+40+,White,Married,IIB,99,Alive
+50+,White,Single ,IIB,55,Alive
+60+,White,Married,IIB,80,Alive
+60+,White,Married,IIB,82,Alive
+50+,White,Single ,IIB,96,Alive
+40+,White,Single ,IIIA,51,Alive
+60+,White,Single ,IIA,106,Alive
+50+,White,Married,IIA,22,Alive
+60+,White,Married,IIB,83,Alive
+60+,White,Married,IIIA,86,Alive
+40+,White,Married,IIIA,99,Alive
+60+,White,Married,IIIC,106,Alive
+60+,White,Married,IIB,45,Dead
+60+,White,Married,IIA,99,Alive
+40+,White,Married,IIIA,84,Alive
+60+,White,Widowed,IIIC,86,Alive
+60+,White,Married,IIB,87,Alive
+60+,White,Married,IIA,92,Alive
+40+,White,Married,IIB,49,Alive
+40+,White,Married,IIIC,30,Dead
+60+,White,Married,IIA,56,Alive
+60+,White,Married,IIA,98,Alive
+60+,White,Married,IIB,97,Alive
+60+,White,Divorced,IIA,106,Alive
+60+,White,Divorced,IIB,100,Alive
+30+,White,Widowed,IIIC,75,Dead
+50+,White,Married,IIA,90,Alive
+40+,White,Married,IIA,74,Alive
+50+,White,Married,IIIC,66,Alive
+60+,White,Married,IIIA,6,Dead
+40+,White,Separated,IIA,75,Alive
+50+,White,Divorced,IIIA,107,Alive
+50+,White,Married,IIB,63,Alive
+30+,White,Single ,IIIA,68,Alive
+30+,White,Married,IIB,55,Alive
+50+,White,Married,IIA,73,Alive
+60+,White,Married,IIB,60,Alive
+50+,Other,Divorced,IIA,100,Alive
+40+,White,Married,IIA,90,Alive
+60+,White,Married,IIIC,15,Dead
+50+,White,Married,IIA,95,Alive
+40+,White,Married,IIIC,32,Dead
+40+,White,Divorced,IIA,103,Alive
+40+,White,Married,IIA,99,Alive
+40+,White,Married,IIA,102,Alive
+50+,White,Single ,IIA,103,Alive
+60+,White,Married,IIB,88,Alive
+50+,White,Married,IIA,58,Alive
+50+,White,Married,IIB,61,Alive
+40+,White,Married,IIA,101,Alive
+30+,White,Single ,IIA,101,Alive
+40+,White,Married,IIB,9,Alive
+60+,White,Married,IIA,68,Alive
+60+,White,Single ,IIA,87,Alive
+40+,Black,Divorced,IIB,93,Alive
+50+,White,Married,IIA,61,Alive
+40+,Other,Married,IIA,95,Alive
+40+,White,Married,IIIA,80,Alive
+60+,White,Married,IIIA,13,Dead
+60+,Other,Married,IIIA,52,Alive
+50+,White,Single ,IIIA,54,Alive
+50+,White,Married,IIA,56,Alive
+40+,Other,Married,IIIA,97,Alive
+50+,Other,Married,IIIA,66,Alive
+50+,White,Married,IIIA,98,Alive
+40+,White,Married,IIIA,54,Alive
+50+,White,Divorced,IIIC,9,Dead
+50+,White,Married,IIIA,73,Alive
+50+,White,Divorced,IIB,48,Dead
+60+,White,Married,IIA,81,Alive
+50+,White,Single ,IIIA,69,Dead
+40+,White,Married,IIA,84,Alive
+40+,White,Married,IIIA,89,Alive
+50+,White,Widowed,IIA,97,Alive
+50+,White,Divorced,IIIA,79,Alive
+50+,White,Married,IIA,100,Alive
+50+,White,Married,IIA,67,Alive
+60+,White,Married,IIIA,52,Dead
+40+,White,Married,IIA,70,Alive
+40+,Black,Divorced,IIA,95,Alive
+50+,White,Married,IIA,87,Alive
+40+,White,Divorced,IIB,53,Alive
+60+,White,Married,IIIC,51,Alive
+60+,Black,Single ,IIA,83,Alive
+60+,White,Divorced,IIIA,60,Alive
+40+,White,Married,IIIA,63,Alive
+40+,White,Married,IIA,106,Alive
+50+,White,Divorced,IIA,107,Alive
+60+,White,Married,IIA,95,Alive
+50+,Other,Married,IIIA,58,Alive
+50+,White,Married,IIA,94,Alive
+50+,White,Married,IIA,52,Dead
+60+,White,Married,IIA,97,Alive
+50+,White,Married,IIA,86,Alive
+40+,White,Married,IIB,91,Alive
+60+,White,Married,IIA,49,Dead
+50+,White,Married,IIB,69,Alive
+50+,Black,Married,IIA,100,Alive
+30+,White,Married,IIB,9,Alive
+50+,White,Separated,IIB,86,Alive
+60+,White,Married,IIIC,90,Alive
+40+,White,Single ,IIIC,76,Alive
+60+,White,Married,IIIA,61,Alive
+40+,White,Married,IIB,69,Alive
+50+,White,Married,IIA,5,Dead
+60+,White,Divorced,IIIC,80,Alive
+50+,White,Married,IIIC,40,Dead
+40+,White,Single ,IIIC,53,Dead
+50+,White,Married,IIA,92,Alive
+60+,White,Married,IIIC,39,Dead
+40+,White,Married,IIIA,80,Alive
+60+,White,Married,IIB,54,Alive
+50+,White,Married,IIIC,98,Alive
+40+,White,Married,IIB,87,Alive
+50+,White,Married,IIIC,10,Alive
+60+,White,Single ,IIA,80,Alive
+40+,White,Married,IIIC,49,Alive
+30+,White,Married,IIIA,56,Alive
+30+,White,Married,IIB,75,Dead
+50+,White,Married,IIIC,105,Alive
+50+,White,Married,IIA,87,Alive
+60+,White,Widowed,IIB,53,Dead
+50+,White,Married,IIB,61,Alive
+40+,White,Single ,IIA,102,Alive
+50+,Other,Married,IIIA,70,Alive
+50+,White,Single ,IIB,101,Alive
+60+,White,Married,IIA,69,Alive
+60+,Other,Divorced,IIA,80,Alive
+50+,White,Divorced,IIIC,93,Alive
+40+,Other,Married,IIB,98,Alive
+60+,White,Single ,IIIA,59,Dead
+50+,White,Married,IIIA,53,Alive
+60+,White,Divorced,IIIC,63,Dead
+50+,White,Married,IIIA,107,Alive
+50+,White,Married,IIIC,49,Dead
+40+,White,Married,IIIA,94,Alive
+40+,White,Married,IIA,60,Alive
+40+,White,Married,IIIA,100,Alive
+40+,White,Single ,IIB,91,Alive
+40+,Black,Married,IIA,66,Alive
+40+,White,Divorced,IIIA,44,Dead
+60+,White,Single ,IIIA,60,Alive
+50+,White,Married,IIA,50,Alive
+50+,White,Single ,IIIA,90,Alive
+50+,Black,Divorced,IIB,88,Alive
+60+,White,Married,IIA,75,Alive
+30+,White,Married,IIB,74,Alive
+50+,White,Divorced,IIIA,56,Alive
+50+,White,Married,IIIA,103,Alive
+50+,White,Married,IIIA,19,Dead
+60+,White,Married,IIA,25,Dead
+40+,White,Married,IIA,93,Alive
+60+,White,Divorced,IIIC,60,Alive
+50+,White,Married,IIIC,76,Alive
+60+,Other,Divorced,IIB,87,Alive
+60+,White,Single ,IIB,69,Alive
+40+,White,Married,IIIC,60,Dead
+50+,White,Married,IIIA,95,Alive
+60+,White,Married,IIIC,100,Alive
+40+,Other,Single ,IIIA,81,Alive
+40+,White,Single ,IIB,104,Alive
+60+,White,Married,IIA,52,Alive
+40+,White,Divorced,IIB,67,Alive
+40+,White,Married,IIA,87,Alive
+60+,White,Divorced,IIIC,34,Dead
+50+,Black,Single ,IIA,18,Dead
+60+,White,Divorced,IIB,55,Alive
+60+,White,Married,IIA,50,Alive
+60+,White,Married,IIA,66,Alive
+50+,White,Married,IIIB,107,Alive
+50+,White,Married,IIA,107,Alive
+60+,White,Married,IIA,85,Alive
+60+,White,Married,IIIC,34,Dead
+40+,White,Married,IIB,64,Alive
+50+,White,Married,IIB,96,Alive
+50+,White,Divorced,IIA,98,Alive
+60+,White,Married,IIIA,52,Alive
+50+,Black,Single ,IIIC,76,Dead
+40+,White,Married,IIB,76,Alive
+60+,White,Married,IIIA,62,Alive
+40+,Black,Married,IIA,64,Alive
+50+,Other,Married,IIA,54,Alive
+60+,White,Married,IIIA,89,Alive
+50+,White,Married,IIB,90,Alive
+40+,Black,Single ,IIA,61,Alive
+40+,White,Married,IIIA,52,Alive
+50+,White,Widowed,IIIC,81,Alive
+30+,White,Married,IIIA,69,Alive
+50+,White,Single ,IIB,93,Alive
+60+,White,Married,IIB,62,Alive
+50+,White,Widowed,IIA,103,Alive
+40+,White,Divorced,IIIC,37,Dead
+50+,White,Married,IIA,71,Alive
+40+,White,Married,IIB,100,Alive
+50+,Other,Single ,IIB,62,Alive
+40+,White,Married,IIB,96,Alive
+30+,White,Married,IIB,74,Alive
+30+,White,Single ,IIA,66,Alive
+30+,White,Married,IIB,75,Alive
+40+,White,Single ,IIIA,89,Alive
+30+,White,Married,IIIA,102,Alive
+60+,White,Married,IIB,72,Alive
+30+,Black,Married,IIIA,97,Alive
+60+,White,Widowed,IIB,103,Alive
+30+,Other,Divorced,IIA,88,Dead
+50+,White,Married,IIB,60,Alive
+40+,White,Single ,IIA,57,Alive
+60+,White,Married,IIIA,106,Alive
+60+,White,Married,IIB,81,Alive
+60+,White,Married,IIB,91,Alive
+50+,White,Married,IIIA,75,Alive
+60+,Black,Married,IIA,51,Alive
+40+,White,Married,IIIA,93,Alive
+60+,Other,Married,IIB,84,Alive
+60+,White,Married,IIIA,96,Alive
+40+,Black,Single ,IIA,5,Dead
+40+,White,Married,IIB,62,Alive
+40+,White,Married,IIIC,50,Dead
+40+,White,Married,IIB,79,Alive
+50+,White,Single ,IIB,93,Alive
+60+,White,Married,IIB,88,Alive
+40+,White,Married,IIIA,55,Alive
+50+,White,Married,IIA,104,Alive
+50+,White,Married,IIA,85,Alive
+40+,White,Single ,IIIA,78,Alive
+60+,White,Married,IIA,35,Dead
+60+,White,Married,IIB,94,Alive
+40+,White,Married,IIIA,59,Alive
+40+,White,Divorced,IIIC,104,Alive
+60+,White,Married,IIA,75,Alive
+50+,White,Married,IIB,27,Alive
+60+,White,Married,IIB,98,Alive
+50+,White,Married,IIA,68,Alive
+30+,White,Married,IIIA,36,Dead
+30+,White,Single ,IIB,53,Alive
+60+,White,Married,IIA,79,Alive
+50+,White,Married,IIB,83,Alive
+60+,White,Married,IIA,89,Alive
+40+,Other,Separated,IIIA,64,Alive
+60+,White,Married,IIB,89,Alive
+50+,White,Married,IIIC,67,Dead
+40+,White,Married,IIA,102,Alive
+50+,White,Married,IIIC,76,Alive
+50+,White,Married,IIIC,42,Dead
+50+,White,Divorced,IIA,101,Alive
+50+,White,Divorced,IIA,54,Alive
+40+,White,Married,IIIC,94,Alive
+60+,White,Married,IIIB,36,Dead
+60+,White,Married,IIA,50,Alive
+60+,White,Married,IIIA,87,Dead
+40+,White,Divorced,IIIA,85,Alive
+50+,White,Married,IIIA,68,Alive
+60+,White,Married,IIB,73,Alive
+50+,White,Married,IIB,59,Alive
+60+,White,Divorced,IIA,67,Alive
+50+,White,Divorced,IIB,66,Alive
+60+,White,Married,IIA,58,Alive
+50+,Other,Married,IIIA,57,Alive
+40+,White,Married,IIB,75,Alive
+60+,White,Married,IIB,104,Alive
+60+,White,Married,IIB,50,Alive
+50+,White,Married,IIB,62,Dead
+40+,Other,Married,IIB,93,Alive
+60+,White,Married,IIIA,4,Dead
+50+,Other,Single ,IIA,73,Alive
+60+,White,Married,IIIC,95,Alive
+50+,White,Married,IIB,94,Alive
+40+,White,Divorced,IIIA,73,Dead
+40+,White,Divorced,IIIC,47,Alive
+40+,White,Married,IIB,70,Alive
+40+,White,Single ,IIB,72,Alive
+50+,White,Married,IIA,81,Alive
+40+,White,Married,IIA,37,Alive
+50+,White,Married,IIB,66,Alive
+50+,White,Married,IIIA,95,Alive
+50+,White,Married,IIIA,66,Alive
+50+,White,Married,IIA,69,Alive
+50+,White,Married,IIIA,95,Alive
+50+,White,Married,IIB,73,Alive
+30+,Other,Divorced,IIIA,79,Alive
+40+,White,Divorced,IIIC,80,Dead
+40+,White,Divorced,IIIC,87,Alive
+40+,White,Single ,IIB,47,Alive
+60+,Other,Divorced,IIA,79,Alive
+40+,White,Married,IIIA,89,Alive
+30+,White,Married,IIIB,90,Alive
+30+,White,Single ,IIIA,74,Alive
+60+,White,Married,IIA,59,Dead
+50+,White,Married,IIIC,82,Alive
+40+,White,Single ,IIIA,58,Alive
+50+,White,Single ,IIIA,49,Alive
+40+,White,Married,IIIA,105,Alive
+60+,White,Divorced,IIIC,60,Dead
+40+,White,Married,IIA,59,Alive
+40+,White,Married,IIB,100,Alive
+40+,White,Married,IIA,93,Alive
+50+,White,Married,IIB,57,Alive
+50+,White,Married,IIIA,88,Alive
+50+,White,Married,IIB,95,Alive
+60+,White,Married,IIA,65,Alive
+50+,White,Married,IIB,58,Alive
+50+,White,Divorced,IIA,72,Alive
+50+,White,Single ,IIIA,64,Alive
+60+,White,Widowed,IIB,54,Alive
+40+,White,Married,IIIA,93,Alive
+40+,White,Married,IIIC,3,Alive
+40+,White,Separated,IIA,76,Alive
+40+,White,Married,IIA,79,Alive
+40+,White,Single ,IIIA,44,Dead
+60+,White,Married,IIB,95,Alive
+60+,Black,Married,IIA,66,Dead
+50+,White,Married,IIIA,29,Dead
+40+,Black,Single ,IIIB,16,Dead
+40+,White,Married,IIIC,33,Dead
+50+,White,Divorced,IIIA,19,Dead
+50+,White,Married,IIA,104,Alive
+60+,White,Widowed,IIA,71,Alive
+60+,White,Single ,IIA,60,Dead
+50+,White,Married,IIIA,67,Alive
+60+,White,Married,IIA,88,Alive
+60+,White,Married,IIIA,40,Dead
+40+,White,Married,IIA,47,Alive
+40+,White,Single ,IIB,39,Alive
+60+,Black,Married,IIB,105,Alive
+40+,White,Married,IIIA,48,Alive
+30+,White,Married,IIA,53,Alive
+60+,Black,Divorced,IIB,61,Dead
+60+,White,Married,IIB,50,Alive
+60+,White,Single ,IIA,99,Alive
+50+,White,Married,IIA,104,Alive
+40+,White,Single ,IIIA,85,Alive
+30+,White,Married,IIIA,71,Alive
+50+,Other,Married,IIIA,102,Alive
+50+,White,Married,IIA,58,Alive
+30+,Other,Married,IIA,70,Alive
+60+,White,Single ,IIB,99,Alive
+50+,White,Married,IIB,61,Dead
+50+,White,Married,IIB,38,Dead
+50+,White,Divorced,IIIA,34,Dead
+40+,White,Married,IIB,103,Alive
+40+,White,Married,IIB,67,Alive
+40+,White,Married,IIB,65,Dead
+60+,White,Married,IIB,97,Dead
+50+,White,Married,IIIA,85,Alive
+60+,White,Married,IIA,81,Alive
+50+,White,Married,IIA,59,Alive
+40+,White,Married,IIB,58,Alive
+60+,White,Married,IIB,57,Alive
+50+,White,Married,IIA,97,Alive
+50+,White,Married,IIIA,87,Alive
+40+,White,Married,IIB,74,Alive
+60+,White,Married,IIA,85,Alive
+40+,Black,Single ,IIB,69,Alive
+60+,Other,Married,IIIA,99,Alive
+40+,White,Divorced,IIIA,82,Alive
+30+,White,Single ,IIIA,80,Alive
+60+,White,Divorced,IIB,105,Alive
+60+,Black,Single ,IIA,53,Alive
+50+,Other,Married,IIIA,18,Alive
+40+,White,Married,IIA,97,Alive
+60+,White,Widowed,IIIC,26,Dead
+50+,White,Divorced,IIIA,54,Alive
+50+,White,Married,IIA,80,Alive
+60+,White,Married,IIA,82,Dead
+40+,White,Married,IIA,99,Alive
+60+,White,Married,IIIA,87,Alive
+60+,White,Married,IIB,88,Alive
+60+,White,Married,IIIA,90,Dead
+60+,White,Widowed,IIA,49,Alive
+60+,White,Married,IIB,47,Alive
+60+,White,Married,IIIB,79,Alive
+50+,Other,Married,IIB,77,Alive
+60+,Other,Widowed,IIA,77,Alive
+60+,White,Single ,IIB,48,Alive
+60+,White,Married,IIIA,71,Alive
+60+,White,Married,IIA,54,Alive
+50+,White,Married,IIA,66,Alive
+40+,White,Single ,IIIA,83,Alive
+50+,White,Married,IIB,81,Alive
+60+,Other,Married,IIA,80,Alive
+40+,White,Single ,IIA,91,Alive
+60+,White,Married,IIA,76,Alive
+40+,Black,Married,IIB,85,Alive
+60+,Black,Single ,IIB,61,Dead
+60+,White,Married,IIIC,61,Dead
+40+,White,Married,IIIC,36,Dead
+60+,White,Married,IIA,56,Alive
+40+,White,Divorced,IIA,85,Alive
+60+,White,Married,IIB,97,Alive
+50+,Other,Married,IIA,101,Alive
+40+,White,Married,IIA,77,Alive
+50+,White,Married,IIIA,75,Alive
+60+,White,Married,IIB,99,Alive
+50+,White,Married,IIB,54,Alive
+50+,White,Married,IIA,103,Alive
+40+,White,Divorced,IIB,89,Alive
+50+,White,Married,IIA,89,Alive
+50+,White,Married,IIB,101,Alive
+40+,White,Married,IIIC,91,Alive
+50+,White,Widowed,IIIC,65,Alive
+50+,White,Married,IIIC,55,Alive
+50+,White,Married,IIB,95,Alive
+50+,White,Married,IIA,94,Alive
+60+,White,Widowed,IIB,94,Alive
+40+,White,Single ,IIA,48,Alive
+60+,White,Married,IIIA,58,Alive
+40+,White,Married,IIB,101,Alive
+40+,White,Married,IIB,96,Alive
+50+,White,Single ,IIIA,90,Alive
+40+,White,Married,IIIA,102,Alive
+50+,White,Divorced,IIA,101,Alive
+40+,White,Married,IIB,50,Alive
+60+,White,Divorced,IIIA,77,Alive
+60+,White,Married,IIA,62,Alive
+50+,White,Married,IIA,96,Alive
+50+,White,Divorced,IIA,97,Alive
+60+,Other,Married,IIIA,86,Dead
+60+,Other,Married,IIIA,76,Alive
+60+,White,Divorced,IIB,20,Dead
+60+,Other,Married,IIB,53,Alive
+60+,White,Married,IIA,69,Alive
+50+,White,Married,IIA,69,Alive
+30+,White,Married,IIIC,28,Dead
+50+,White,Married,IIB,69,Alive
+30+,Black,Single ,IIIC,98,Alive
+40+,White,Single ,IIIA,102,Alive
+60+,White,Married,IIB,90,Alive
+60+,White,Married,IIIA,5,Dead
+60+,Other,Divorced,IIIB,99,Alive
+60+,White,Married,IIIC,104,Alive
+50+,Other,Married,IIB,87,Alive
+40+,Black,Married,IIA,75,Alive
+30+,White,Married,IIB,89,Alive
+50+,Black,Married,IIA,53,Alive
+60+,Black,Widowed,IIA,96,Dead
+40+,White,Married,IIIA,56,Dead
+40+,White,Married,IIB,102,Alive
+60+,White,Married,IIA,57,Dead
+60+,Other,Married,IIB,106,Alive
+50+,White,Married,IIIA,107,Alive
+60+,White,Married,IIIA,64,Alive
+30+,White,Married,IIA,7,Dead
+50+,White,Married,IIB,107,Alive
+60+,White,Married,IIA,58,Alive
+50+,White,Single ,IIB,45,Dead
+60+,Other,Married,IIIA,91,Alive
+60+,White,Married,IIB,107,Alive
+40+,White,Single ,IIIC,43,Dead
+30+,Other,Divorced,IIB,54,Dead
+60+,White,Widowed,IIIC,86,Alive
+30+,White,Married,IIIA,107,Alive
+40+,White,Married,IIIC,43,Dead
+30+,White,Married,IIA,83,Alive
+40+,White,Divorced,IIB,78,Alive
+40+,White,Divorced,IIB,28,Dead
+50+,White,Married,IIB,96,Alive
+40+,White,Married,IIIA,79,Alive
+30+,White,Married,IIIA,57,Alive
+50+,White,Married,IIIB,74,Alive
+40+,White,Married,IIA,76,Alive
+60+,White,Divorced,IIA,54,Alive
+30+,Black,Single ,IIIA,38,Dead
+50+,Other,Single ,IIIA,67,Alive
+40+,White,Married,IIA,85,Alive
+50+,White,Married,IIIA,85,Alive
+60+,White,Married,IIB,73,Alive
+40+,White,Married,IIA,70,Alive
+60+,Other,Married,IIIA,73,Alive
+60+,White,Married,IIA,98,Alive
+60+,White,Married,IIA,49,Alive
+40+,White,Married,IIA,62,Alive
+50+,White,Divorced,IIIC,47,Dead
+40+,White,Married,IIA,98,Alive
+40+,Other,Married,IIIA,88,Alive
+50+,White,Single ,IIIA,62,Alive
+40+,White,Married,IIIA,77,Alive
+60+,White,Single ,IIIC,79,Dead
+50+,White,Married,IIIA,68,Alive
+40+,White,Married,IIIA,58,Alive
+60+,White,Married,IIB,103,Alive
+60+,White,Married,IIIA,4,Dead
+30+,White,Married,IIIA,26,Dead
+50+,White,Divorced,IIIA,107,Alive
+30+,White,Married,IIA,77,Alive
+40+,White,Single ,IIA,85,Alive
+60+,White,Married,IIA,65,Alive
+50+,White,Married,IIA,68,Alive
+40+,Black,Single ,IIIA,51,Alive
+50+,White,Widowed,IIB,100,Alive
+50+,White,Married,IIA,69,Alive
+60+,White,Married,IIIC,91,Alive
+50+,White,Single ,IIIC,94,Alive
+30+,Black,Divorced,IIB,25,Dead
+50+,Black,Widowed,IIIC,67,Dead
+60+,White,Divorced,IIA,80,Alive
+60+,Other,Married,IIIC,52,Dead
+40+,White,Married,IIB,87,Alive
+60+,White,Widowed,IIA,62,Alive
+50+,White,Divorced,IIB,84,Alive
+30+,Black,Separated,IIA,85,Alive
+40+,White,Married,IIIA,17,Alive
+40+,Black,Single ,IIIA,53,Dead
+60+,White,Married,IIA,92,Alive
+50+,Other,Married,IIA,102,Alive
+60+,White,Single ,IIB,104,Alive
+40+,Other,Married,IIIC,1,Alive
+40+,White,Married,IIIC,23,Dead
+60+,White,Single ,IIA,85,Alive
+50+,Other,Married,IIA,94,Alive
+40+,White,Single ,IIB,55,Alive
+40+,White,Married,IIA,99,Alive
+40+,Black,Separated,IIB,65,Alive
+60+,White,Single ,IIB,3,Dead
+60+,White,Married,IIA,55,Alive
+60+,Black,Single ,IIB,60,Alive
+60+,White,Married,IIB,46,Dead
+50+,Other,Married,IIA,80,Alive
+60+,White,Married,IIB,75,Alive
+50+,White,Married,IIA,70,Alive
+50+,White,Married,IIIA,19,Dead
+40+,White,Married,IIA,95,Alive
+60+,White,Widowed,IIIA,31,Dead
+30+,White,Divorced,IIIA,38,Dead
+40+,White,Married,IIIA,97,Alive
+60+,White,Married,IIIC,86,Alive
+60+,Black,Divorced,IIIA,66,Alive
+40+,White,Married,IIA,68,Alive
+60+,White,Married,IIB,90,Alive
+50+,White,Married,IIIC,60,Alive
+50+,White,Married,IIA,96,Alive
+40+,White,Single ,IIB,44,Alive
+30+,White,Single ,IIIC,29,Dead
+50+,White,Married,IIIA,81,Alive
+50+,White,Married,IIIC,28,Dead
+60+,White,Divorced,IIA,24,Dead
+50+,White,Married,IIA,61,Alive
+40+,White,Married,IIA,74,Alive
+50+,White,Married,IIA,71,Alive
+30+,White,Married,IIB,65,Alive
+30+,White,Widowed,IIA,43,Alive
+40+,Black,Married,IIA,46,Alive
+50+,Other,Married,IIA,69,Alive
+40+,Black,Single ,IIB,81,Dead
+50+,White,Married,IIIA,107,Alive
+60+,White,Married,IIA,30,Dead
+50+,White,Married,IIA,92,Alive
+40+,Other,Married,IIIA,106,Alive
+40+,White,Married,IIIA,68,Alive
+60+,White,Married,IIIC,72,Alive
+60+,White,Married,IIB,84,Alive
+60+,White,Married,IIB,63,Alive
+60+,Black,Married,IIA,90,Alive
+40+,White,Married,IIIA,67,Alive
+50+,Black,Married,IIIA,44,Dead
+40+,White,Married,IIA,49,Alive
+60+,White,Married,IIIC,57,Dead
+40+,White,Married,IIB,77,Alive
+40+,Other,Married,IIIA,93,Alive
+60+,White,Married,IIA,24,Dead
+40+,White,Married,IIA,71,Dead
+40+,White,Married,IIB,75,Alive
+50+,White,Single ,IIIA,89,Alive
+50+,White,Single ,IIB,84,Alive
+50+,White,Married,IIA,69,Alive
+40+,Other,Married,IIIA,86,Alive
+40+,White,Married,IIIA,86,Alive
+40+,Black,Single ,IIIA,81,Alive
+50+,White,Single ,IIA,97,Alive
+60+,Black,Married,IIA,84,Alive
+40+,White,Widowed,IIIA,84,Alive
+60+,Black,Married,IIA,96,Alive
+60+,White,Single ,IIIC,71,Alive
+60+,White,Single ,IIB,81,Alive
+50+,White,Divorced,IIIC,73,Alive
+60+,White,Divorced,IIB,58,Alive
+60+,Other,Married,IIA,50,Alive
+40+,White,Married,IIB,80,Alive
+40+,White,Single ,IIIA,61,Alive
+50+,White,Single ,IIB,73,Alive
+30+,Black,Single ,IIIA,77,Alive
+50+,White,Separated,IIB,87,Alive
+60+,Other,Widowed,IIB,105,Alive
+30+,Other,Single ,IIA,77,Alive
+50+,White,Divorced,IIB,67,Alive
+50+,White,Married,IIA,82,Alive
+50+,White,Single ,IIB,95,Alive
+40+,White,Married,IIIC,15,Alive
+50+,White,Divorced,IIIA,67,Alive
+60+,White,Married,IIIC,42,Dead
+50+,Other,Married,IIB,74,Alive
+40+,Other,Married,IIB,10,Alive
+60+,White,Divorced,IIIA,57,Alive
+50+,White,Divorced,IIIA,95,Alive
+50+,White,Married,IIA,73,Alive
+60+,White,Divorced,IIIA,58,Alive
+40+,White,Single ,IIA,92,Alive
+40+,White,Divorced,IIB,60,Alive
+50+,White,Single ,IIIA,33,Dead
+60+,White,Married,IIIA,81,Alive
+30+,White,Single ,IIB,17,Dead
+40+,White,Married,IIB,52,Alive
+60+,White,Single ,IIIC,83,Alive
+50+,Other,Married,IIA,96,Alive
+60+,White,Widowed,IIB,70,Alive
+40+,White,Married,IIIA,65,Alive
+60+,White,Married,IIB,98,Alive
+40+,White,Divorced,IIB,14,Alive
+50+,White,Married,IIB,35,Dead
+50+,White,Married,IIIA,74,Alive
+60+,White,Married,IIA,88,Alive
+50+,White,Married,IIB,89,Alive
+60+,White,Married,IIA,91,Alive
+60+,White,Widowed,IIB,104,Alive
+50+,White,Widowed,IIIA,96,Dead
+60+,White,Married,IIA,83,Alive
+60+,White,Married,IIA,74,Alive
+60+,White,Married,IIA,87,Alive
+60+,White,Married,IIIC,14,Dead
+50+,White,Married,IIA,57,Alive
+50+,White,Married,IIA,103,Alive
+50+,White,Single ,IIA,102,Alive
+50+,White,Married,IIIA,50,Alive
+60+,White,Married,IIB,92,Alive
+60+,White,Married,IIIC,101,Alive
+60+,White,Divorced,IIIC,72,Dead
+50+,White,Married,IIIA,90,Alive
+60+,White,Divorced,IIIA,4,Dead
+60+,White,Married,IIIC,59,Alive
+40+,White,Married,IIB,50,Alive
+60+,White,Married,IIA,67,Alive
+50+,White,Married,IIA,13,Dead
+40+,White,Married,IIA,80,Alive
+50+,White,Married,IIIA,95,Alive
+40+,White,Single ,IIA,66,Dead
+50+,White,Married,IIA,62,Alive
+40+,White,Married,IIA,88,Alive
+50+,White,Married,IIIA,98,Alive
+60+,White,Married,IIB,22,Dead
+50+,White,Married,IIA,51,Alive
+40+,White,Married,IIIA,90,Alive
+50+,White,Married,IIIA,67,Alive
+50+,White,Married,IIA,72,Alive
+30+,White,Married,IIA,99,Alive
+60+,White,Divorced,IIA,83,Alive
+60+,White,Single ,IIIC,83,Alive
+60+,White,Married,IIIC,75,Alive
+60+,White,Single ,IIIA,93,Dead
+60+,Other,Married,IIA,73,Alive
+40+,White,Married,IIA,95,Alive
+60+,White,Married,IIB,88,Alive
+40+,White,Divorced,IIIA,103,Alive
+60+,White,Divorced,IIIA,68,Alive
+60+,White,Divorced,IIA,91,Alive
+50+,Other,Married,IIIC,98,Alive
+50+,Black,Single ,IIIA,34,Dead
+40+,White,Single ,IIIA,106,Alive
+40+,White,Divorced,IIIA,88,Alive
+50+,White,Divorced,IIIA,75,Alive
+50+,White,Divorced,IIB,85,Alive
+40+,White,Married,IIA,70,Alive
+60+,White,Married,IIIA,89,Alive
+40+,White,Married,IIA,85,Alive
+40+,White,Married,IIIA,64,Alive
+60+,White,Married,IIB,67,Dead
+60+,White,Married,IIIC,80,Alive
+60+,White,Married,IIIC,66,Dead
+60+,White,Single ,IIIC,7,Dead
+50+,Black,Married,IIB,96,Alive
+40+,White,Married,IIB,61,Alive
+40+,White,Divorced,IIA,68,Alive
+60+,White,Divorced,IIIB,73,Alive
+30+,White,Married,IIA,35,Alive
+40+,White,Married,IIB,88,Dead
+50+,White,Married,IIIC,83,Alive
+60+,Other,Single ,IIA,106,Alive
+50+,White,Widowed,IIIA,78,Alive
+50+,White,Married,IIB,79,Dead
+50+,Black,Single ,IIA,67,Alive
+50+,White,Married,IIA,98,Alive
+60+,Other,Married,IIIC,55,Alive
+40+,White,Married,IIIA,51,Dead
+60+,White,Married,IIA,56,Alive
+60+,White,Married,IIA,56,Alive
+40+,White,Married,IIA,73,Alive
+60+,White,Married,IIIC,64,Alive
+60+,White,Married,IIB,57,Alive
+40+,White,Married,IIA,95,Alive
+60+,White,Married,IIB,101,Alive
+50+,White,Married,IIA,99,Alive
+60+,White,Widowed,IIIA,97,Alive
+50+,White,Divorced,IIIC,23,Dead
+50+,White,Married,IIIC,82,Dead
+60+,White,Married,IIB,94,Alive
+60+,White,Married,IIIA,104,Alive
+40+,Other,Married,IIB,50,Alive
+50+,White,Married,IIB,86,Alive
+50+,White,Single ,IIA,100,Alive
+60+,White,Single ,IIA,62,Alive
+60+,White,Divorced,IIIA,97,Alive
+50+,White,Married,IIIA,64,Alive
+50+,White,Married,IIIC,74,Alive
+30+,White,Married,IIIA,59,Alive
+40+,White,Married,IIB,97,Alive
+50+,White,Married,IIIC,77,Dead
+50+,Other,Married,IIIC,80,Dead
+50+,White,Single ,IIB,87,Alive
+50+,White,Married,IIIA,52,Alive
+60+,White,Single ,IIA,60,Alive
+50+,Other,Married,IIB,76,Alive
+40+,Black,Single ,IIB,69,Alive
+40+,White,Divorced,IIA,56,Dead
+50+,White,Single ,IIA,93,Alive
+60+,White,Divorced,IIIC,86,Alive
+50+,White,Married,IIA,49,Alive
+60+,White,Married,IIA,52,Alive
+40+,White,Married,IIA,62,Alive
+60+,White,Divorced,IIB,92,Alive
+60+,White,Divorced,IIB,79,Dead
+50+,Black,Married,IIA,58,Alive
+50+,White,Married,IIIA,67,Alive
+50+,Other,Married,IIIC,102,Alive
+50+,White,Married,IIB,63,Alive
+60+,White,Single ,IIA,45,Dead
+50+,White,Married,IIIB,99,Alive
+30+,White,Married,IIIC,62,Alive
+60+,White,Divorced,IIA,82,Alive
+40+,White,Married,IIIA,61,Alive
+30+,White,Divorced,IIB,5,Alive
+50+,White,Married,IIB,76,Alive
+50+,White,Single ,IIB,41,Dead
+50+,White,Married,IIA,98,Alive
+40+,White,Married,IIA,51,Alive
+60+,White,Widowed,IIB,21,Dead
+60+,White,Married,IIIA,55,Alive
+60+,White,Married,IIA,48,Alive
+40+,Black,Divorced,IIIC,98,Alive
+40+,White,Married,IIA,103,Alive
+40+,White,Married,IIA,60,Alive
+50+,White,Married,IIIA,52,Alive
+60+,White,Married,IIIA,56,Dead
+60+,White,Married,IIB,2,Dead
+60+,White,Widowed,IIA,91,Alive
+50+,White,Married,IIA,53,Alive
+60+,White,Married,IIIA,50,Dead
+60+,White,Single ,IIIA,96,Alive
+40+,White,Married,IIIA,66,Alive
+40+,Black,Single ,IIA,48,Alive
+60+,White,Married,IIA,81,Alive
+60+,White,Widowed,IIA,94,Alive
+50+,White,Married,IIB,88,Alive
+60+,White,Married,IIIA,56,Alive
+50+,White,Married,IIIA,83,Alive
+60+,White,Widowed,IIIA,73,Alive
+50+,White,Widowed,IIB,103,Alive
+50+,White,Married,IIIA,31,Dead
+40+,Black,Single ,IIA,48,Alive
+40+,White,Married,IIA,89,Alive
+40+,White,Married,IIB,83,Alive
+40+,White,Married,IIA,86,Alive
+40+,White,Single ,IIB,97,Alive
+60+,Other,Married,IIIA,58,Alive
+50+,White,Single ,IIA,101,Alive
+40+,White,Married,IIIC,53,Dead
+60+,Black,Widowed,IIIC,102,Alive
+60+,White,Married,IIA,94,Alive
+40+,White,Married,IIA,76,Alive
+60+,White,Widowed,IIIA,74,Alive
+50+,White,Married,IIB,73,Alive
+40+,White,Single ,IIB,61,Alive
+40+,White,Divorced,IIA,103,Alive
+40+,Other,Married,IIB,63,Alive
+60+,White,Divorced,IIIA,95,Alive
+60+,White,Single ,IIB,47,Alive
+60+,White,Married,IIIA,64,Alive
+50+,White,Married,IIIA,50,Alive
+40+,Black,Married,IIIC,87,Alive
+60+,White,Married,IIA,77,Alive
+40+,White,Married,IIIA,106,Alive
+40+,White,Married,IIB,105,Alive
+60+,White,Married,IIA,80,Alive
+40+,White,Married,IIIA,82,Alive
+40+,White,Divorced,IIA,101,Alive
+30+,White,Married,IIA,52,Alive
+60+,White,Married,IIIC,40,Dead
+40+,White,Married,IIB,79,Alive
+40+,White,Married,IIA,13,Dead
+50+,White,Divorced,IIIA,101,Alive
+60+,White,Married,IIB,88,Alive
+60+,White,Married,IIA,48,Alive
+40+,Other,Separated,IIIA,73,Alive
+50+,White,Married,IIA,69,Alive
+40+,White,Single ,IIB,91,Alive
+60+,White,Widowed,IIA,102,Alive
+40+,Black,Divorced,IIIA,77,Alive
+50+,White,Married,IIA,101,Dead
+50+,White,Married,IIIC,28,Dead
+40+,White,Married,IIIC,10,Dead
+50+,White,Married,IIB,36,Dead
+50+,White,Married,IIA,83,Alive
+60+,White,Married,IIIA,83,Alive
+50+,White,Married,IIB,66,Alive
+50+,Black,Married,IIB,76,Alive
+60+,White,Married,IIB,98,Alive
+40+,White,Single ,IIB,75,Alive
+50+,White,Married,IIA,100,Alive
+50+,White,Married,IIA,72,Alive
+50+,White,Single ,IIIA,86,Alive
+40+,Other,Married,IIA,74,Alive
+30+,White,Married,IIA,78,Alive
+50+,Black,Married,IIIB,58,Alive
+40+,White,Married,IIA,94,Alive
+40+,White,Married,IIB,62,Alive
+60+,White,Single ,IIA,17,Dead
+60+,White,Married,IIA,98,Alive
+60+,White,Married,IIA,50,Alive
+40+,White,Married,IIIA,103,Alive
+60+,White,Married,IIB,69,Alive
+40+,White,Single ,IIA,107,Alive
+50+,White,Married,IIB,101,Alive
+40+,White,Married,IIB,50,Alive
+40+,White,Married,IIA,68,Alive
+50+,White,Married,IIB,68,Alive
+50+,White,Married,IIA,52,Alive
+50+,Black,Married,IIB,84,Alive
+40+,White,Married,IIIA,102,Alive
+40+,Other,Single ,IIIA,53,Alive
+40+,White,Married,IIB,85,Alive
+60+,White,Married,IIA,101,Alive
+50+,White,Married,IIIA,106,Alive
+60+,White,Widowed,IIIA,72,Dead
+50+,White,Married,IIIC,18,Dead
+60+,Other,Widowed,IIIA,48,Alive
+50+,Other,Married,IIA,84,Alive
+40+,White,Married,IIIB,59,Alive
+40+,White,Married,IIA,72,Alive
+60+,Other,Married,IIA,73,Alive
+60+,White,Married,IIB,58,Alive
+50+,White,Single ,IIB,88,Alive
+40+,White,Divorced,IIA,89,Alive
+50+,White,Married,IIB,86,Alive
+50+,White,Married,IIA,94,Alive
+50+,White,Married,IIB,92,Alive
+50+,White,Married,IIA,49,Alive
+60+,White,Married,IIA,103,Alive
+40+,White,Single ,IIB,105,Alive
+40+,Black,Married,IIIC,83,Alive
+40+,White,Married,IIIA,101,Alive
+60+,White,Married,IIB,98,Dead
+40+,White,Married,IIIA,81,Alive
+50+,White,Divorced,IIIC,37,Dead
+60+,White,Married,IIA,75,Alive
+50+,Black,Separated,IIIC,48,Dead
+50+,Black,Single ,IIB,69,Alive
+50+,White,Married,IIIA,104,Alive
+60+,White,Married,IIA,87,Alive
+40+,Black,Married,IIB,72,Alive
+50+,White,Divorced,IIIA,76,Alive
+60+,White,Married,IIIA,75,Alive
+50+,White,Married,IIIA,85,Alive
+60+,White,Married,IIIA,93,Alive
+40+,White,Married,IIB,56,Alive
+60+,White,Single ,IIIA,49,Alive
+60+,White,Married,IIIC,48,Dead
+40+,White,Married,IIA,70,Alive
+30+,Black,Divorced,IIIA,51,Alive
+60+,White,Married,IIB,57,Alive
+50+,Black,Married,IIIA,57,Dead
+40+,White,Single ,IIB,87,Alive
+60+,White,Widowed,IIA,98,Alive
+40+,Black,Married,IIIA,80,Alive
+50+,Black,Widowed,IIIC,74,Alive
+40+,White,Married,IIIA,102,Alive
+40+,White,Married,IIA,104,Alive
+40+,White,Married,IIIA,100,Alive
+60+,White,Single ,IIA,62,Alive
+50+,White,Married,IIA,72,Alive
+50+,White,Married,IIA,86,Alive
+60+,White,Single ,IIB,53,Alive
+40+,White,Married,IIA,58,Alive
+50+,White,Married,IIA,83,Alive
+40+,White,Married,IIA,94,Alive
+40+,White,Married,IIA,101,Alive
+60+,White,Married,IIB,59,Dead
+60+,White,Married,IIIA,43,Dead
+40+,White,Single ,IIA,54,Alive
+60+,White,Widowed,IIB,57,Alive
+40+,White,Married,IIA,96,Alive
+60+,White,Single ,IIA,64,Alive
+50+,White,Married,IIA,71,Alive
+60+,White,Married,IIIA,74,Alive
+30+,White,Single ,IIB,49,Alive
+50+,White,Married,IIIC,31,Dead
+50+,White,Married,IIB,53,Alive
+60+,White,Single ,IIA,96,Alive
+60+,White,Married,IIA,51,Alive
+30+,White,Single ,IIB,64,Alive
+60+,Other,Married,IIA,95,Alive
+50+,Black,Single ,IIB,92,Alive
+40+,White,Married,IIIB,58,Alive
+60+,White,Divorced,IIA,62,Alive
+50+,White,Married,IIIC,15,Alive
+50+,White,Married,IIIA,107,Alive
+30+,Black,Single ,IIB,62,Alive
+30+,Black,Single ,IIA,18,Alive
+30+,White,Married,IIIC,46,Dead
+60+,White,Married,IIIA,76,Alive
+40+,Black,Married,IIIA,77,Alive
+50+,White,Married,IIA,86,Alive
+50+,White,Married,IIB,87,Alive
+40+,White,Married,IIIC,24,Dead
+50+,Black,Married,IIA,63,Alive
+60+,White,Married,IIA,57,Alive
+50+,White,Single ,IIB,72,Alive
+40+,White,Married,IIIC,100,Alive
+30+,White,Married,IIIA,72,Alive
+40+,Black,Married,IIB,67,Alive
+60+,White,Married,IIA,68,Dead
+40+,White,Married,IIA,107,Alive
+60+,White,Married,IIIC,86,Alive
+30+,Other,Single ,IIB,28,Dead
+50+,White,Single ,IIB,62,Alive
+60+,Other,Single ,IIA,76,Alive
+60+,White,Married,IIB,81,Alive
+60+,White,Married,IIB,22,Dead
+50+,Black,Married,IIIC,93,Alive
+50+,White,Married,IIA,50,Alive
+50+,White,Single ,IIB,83,Alive
+40+,Other,Divorced,IIA,104,Alive
+40+,White,Married,IIB,83,Alive
+40+,White,Married,IIB,8,Alive
+40+,Other,Married,IIIA,30,Dead
+60+,White,Married,IIA,93,Alive
+50+,Other,Married,IIA,93,Alive
+50+,White,Married,IIIB,50,Alive
+50+,White,Married,IIA,99,Alive
+60+,White,Married,IIIA,76,Alive
+40+,White,Married,IIB,65,Alive
+50+,White,Married,IIIA,64,Alive
+50+,White,Married,IIIA,56,Alive
+40+,White,Married,IIIA,73,Alive
+50+,White,Married,IIB,65,Alive
+40+,Other,Married,IIA,74,Alive
+40+,White,Married,IIB,74,Alive
+30+,White,Married,IIA,75,Alive
+50+,White,Married,IIA,60,Alive
+40+,White,Married,IIA,98,Alive
+60+,White,Married,IIB,103,Alive
+60+,White,Married,IIA,48,Alive
+50+,White,Married,IIA,68,Alive
+40+,White,Married,IIB,97,Alive
+30+,White,Married,IIB,85,Alive
+40+,Other,Married,IIB,47,Alive
+50+,White,Widowed,IIA,63,Alive
+30+,White,Married,IIIB,78,Dead
+60+,Black,Widowed,IIB,54,Alive
+40+,White,Married,IIA,46,Alive
+50+,White,Married,IIIA,74,Alive
+60+,White,Widowed,IIIA,98,Alive
+50+,Other,Divorced,IIA,97,Alive
+40+,Black,Single ,IIIA,36,Dead
+40+,White,Married,IIB,66,Alive
+40+,Black,Separated,IIIC,14,Dead
+60+,White,Widowed,IIIC,25,Dead
+50+,White,Married,IIA,64,Alive
+50+,White,Single ,IIA,79,Alive
+50+,White,Single ,IIB,39,Dead
+60+,White,Married,IIIC,83,Dead
+40+,White,Married,IIB,103,Alive
+50+,White,Married,IIIC,7,Dead
+60+,White,Married,IIB,90,Alive
+40+,White,Married,IIIA,48,Alive
+40+,Other,Married,IIIA,75,Alive
+50+,White,Married,IIIC,100,Alive
+50+,White,Single ,IIB,76,Alive
+40+,White,Married,IIB,87,Alive
+60+,White,Divorced,IIIC,48,Alive
+40+,Black,Married,IIA,103,Alive
+50+,White,Married,IIA,87,Alive
+60+,White,Divorced,IIIA,58,Alive
+50+,White,Married,IIA,89,Alive
+60+,White,Married,IIIC,50,Alive
+40+,White,Married,IIB,40,Dead
+50+,White,Married,IIA,54,Alive
+40+,Other,Married,IIA,80,Alive
+40+,White,Married,IIIC,51,Dead
+50+,Other,Married,IIA,18,Alive
+40+,White,Married,IIB,100,Alive
+60+,White,Single ,IIA,95,Alive
+60+,White,Married,IIB,67,Alive
+30+,White,Married,IIA,78,Alive
+50+,White,Married,IIIC,80,Alive
+50+,Black,Widowed,IIB,56,Alive
+30+,White,Married,IIB,54,Alive
+50+,White,Married,IIA,52,Alive
+50+,White,Widowed,IIB,106,Alive
+40+,White,Separated,IIIC,59,Dead
+60+,White,Widowed,IIB,99,Alive
+50+,White,Married,IIA,66,Alive
+50+,White,Single ,IIIA,61,Alive
+60+,White,Married,IIIA,73,Alive
+40+,White,Married,IIIA,94,Alive
+30+,White,Married,IIIC,93,Alive
+60+,White,Married,IIB,56,Alive
+60+,White,Divorced,IIA,83,Alive
+50+,White,Married,IIIC,56,Dead
+60+,White,Married,IIA,69,Alive
+50+,White,Divorced,IIA,76,Alive
+50+,White,Married,IIB,85,Alive
+60+,White,Married,IIIA,48,Dead
+50+,White,Married,IIIA,78,Alive
+50+,White,Married,IIB,75,Alive
+50+,White,Married,IIB,107,Alive
+60+,White,Married,IIB,63,Alive
+40+,Other,Married,IIB,94,Alive
+60+,White,Married,IIIC,55,Alive
+50+,White,Divorced,IIB,98,Alive
+60+,Black,Single ,IIB,40,Dead
+40+,White,Married,IIIC,65,Alive
+50+,White,Married,IIIA,64,Alive
+50+,White,Married,IIA,80,Alive
+50+,White,Single ,IIIA,58,Alive
+40+,White,Married,IIIC,89,Alive
+60+,White,Married,IIIA,87,Alive
+60+,White,Married,IIIA,93,Alive
+40+,White,Married,IIA,27,Alive
+60+,Black,Married,IIIC,61,Alive
+40+,Black,Married,IIIC,80,Alive
+50+,White,Married,IIIC,99,Alive
+40+,White,Single ,IIA,5,Alive
+60+,White,Married,IIB,95,Dead
+60+,White,Married,IIB,87,Alive
+50+,White,Married,IIIA,100,Alive
+40+,White,Married,IIIA,99,Alive
+60+,White,Single ,IIIA,23,Alive
+40+,White,Single ,IIA,102,Alive
+40+,White,Married,IIA,106,Alive
+40+,Black,Married,IIB,74,Alive
+50+,White,Married,IIIA,41,Alive
+60+,White,Married,IIA,55,Alive
+60+,White,Divorced,IIB,58,Alive
+60+,White,Married,IIA,51,Alive
+60+,White,Widowed,IIA,40,Dead
+30+,White,Single ,IIIA,79,Dead
+50+,White,Divorced,IIIC,41,Dead
+50+,White,Single ,IIIC,102,Alive
+50+,White,Divorced,IIA,40,Alive
+40+,White,Divorced,IIIA,49,Alive
+60+,White,Married,IIA,76,Alive
+30+,White,Married,IIB,66,Alive
+50+,White,Married,IIA,54,Alive
+50+,White,Married,IIIA,75,Alive
+50+,White,Married,IIIA,79,Alive
+50+,White,Widowed,IIIA,58,Alive
+60+,White,Married,IIB,65,Alive
+60+,White,Married,IIA,81,Alive
+40+,White,Divorced,IIIA,106,Alive
+60+,Black,Married,IIIA,40,Dead
+60+,White,Divorced,IIIA,82,Alive
+50+,White,Married,IIB,76,Alive
+40+,White,Widowed,IIA,69,Alive
+40+,Other,Married,IIB,55,Alive
+40+,White,Married,IIB,60,Alive
+50+,White,Married,IIA,94,Alive
+40+,White,Married,IIIA,55,Alive
+60+,White,Married,IIA,82,Alive
+40+,White,Married,IIIA,61,Alive
+60+,White,Married,IIA,90,Alive
+60+,White,Married,IIIB,90,Dead
+40+,White,Married,IIA,64,Dead
+60+,White,Married,IIB,50,Alive
+40+,White,Married,IIA,54,Alive
+60+,White,Divorced,IIB,13,Dead
+50+,Other,Married,IIIA,89,Alive
+50+,White,Married,IIA,102,Alive
+60+,White,Divorced,IIA,47,Dead
+50+,White,Divorced,IIIA,63,Alive
+60+,White,Married,IIIA,90,Alive
+50+,White,Married,IIIB,75,Alive
+50+,White,Married,IIA,46,Alive
+60+,Black,Single ,IIB,57,Alive
+40+,White,Married,IIIA,31,Dead
+50+,White,Married,IIIA,53,Dead
+60+,White,Married,IIB,79,Alive
+60+,White,Widowed,IIIA,50,Alive
+60+,White,Married,IIA,89,Alive
+50+,White,Married,IIB,104,Alive
+60+,Black,Widowed,IIA,66,Alive
+30+,White,Married,IIA,77,Alive
+40+,Other,Married,IIB,100,Alive
+40+,White,Divorced,IIB,76,Alive
+40+,White,Single ,IIA,86,Alive
+60+,White,Married,IIA,82,Alive
+40+,White,Single ,IIIA,107,Alive
+40+,White,Married,IIIC,54,Dead
+40+,White,Married,IIB,96,Alive
+50+,White,Single ,IIIC,53,Alive
+60+,White,Married,IIIB,89,Alive
+50+,White,Divorced,IIB,72,Alive
+50+,White,Divorced,IIA,82,Alive
+40+,White,Married,IIB,103,Alive
+50+,White,Married,IIIC,68,Alive
+50+,White,Married,IIA,54,Alive
+40+,White,Married,IIA,77,Alive
+40+,White,Divorced,IIA,9,Alive
+40+,White,Married,IIIC,54,Alive
+60+,White,Married,IIB,97,Alive
+40+,White,Married,IIIA,60,Alive
+50+,White,Married,IIIC,88,Alive
+60+,White,Married,IIB,89,Alive
+60+,White,Married,IIA,91,Alive
+40+,White,Married,IIB,92,Alive
+60+,Other,Married,IIA,103,Alive
+50+,White,Single ,IIB,81,Alive
+40+,White,Married,IIB,47,Dead
+50+,White,Married,IIA,77,Alive
+60+,White,Married,IIIC,95,Alive
+60+,White,Widowed,IIB,89,Alive
+60+,Black,Divorced,IIIC,63,Alive
+40+,Black,Single ,IIIC,64,Alive
+60+,White,Single ,IIB,83,Alive
+40+,White,Married,IIIC,33,Alive
+60+,White,Widowed,IIIA,72,Alive
+30+,White,Single ,IIIA,56,Alive
+60+,White,Widowed,IIIC,72,Alive
+50+,White,Married,IIIC,80,Alive
+60+,White,Widowed,IIIC,13,Dead
+30+,White,Single ,IIIA,105,Alive
+40+,White,Married,IIB,59,Alive
+30+,White,Married,IIA,69,Alive
+40+,White,Married,IIB,66,Alive
+30+,White,Married,IIA,103,Alive
+40+,White,Married,IIIA,78,Alive
+50+,Black,Single ,IIIA,47,Alive
+30+,Other,Married,IIB,88,Alive
+40+,White,Married,IIA,102,Alive
+50+,Other,Divorced,IIIA,71,Alive
+50+,White,Married,IIB,51,Alive
+40+,Other,Married,IIB,67,Alive
+50+,White,Married,IIIA,33,Dead
+50+,White,Divorced,IIB,107,Alive
+50+,White,Married,IIB,77,Alive
+40+,Other,Married,IIIA,84,Alive
+50+,White,Married,IIIA,91,Alive
+40+,White,Married,IIA,61,Alive
+50+,White,Single ,IIIA,9,Dead
+40+,Other,Divorced,IIB,56,Alive
+60+,White,Widowed,IIIC,10,Dead
+30+,White,Single ,IIIA,103,Alive
+40+,White,Married,IIB,58,Alive
+50+,White,Married,IIA,103,Alive
+40+,White,Separated,IIIC,25,Dead
+60+,White,Widowed,IIIC,31,Dead
+60+,White,Married,IIA,50,Alive
+50+,White,Married,IIA,66,Alive
+30+,Other,Married,IIB,69,Alive
+50+,White,Single ,IIA,51,Alive
+50+,White,Married,IIIA,86,Dead
+60+,White,Married,IIA,96,Alive
+60+,White,Married,IIA,74,Alive
+60+,White,Married,IIB,58,Alive
+60+,White,Divorced,IIB,66,Alive
+40+,White,Married,IIIA,55,Alive
+50+,White,Single ,IIA,102,Alive
+50+,Black,Married,IIA,104,Alive
+60+,White,Divorced,IIB,77,Alive
+50+,White,Single ,IIIA,31,Dead
+60+,White,Widowed,IIA,37,Dead
+50+,White,Widowed,IIB,77,Alive
+40+,White,Married,IIB,81,Alive
+60+,White,Married,IIB,93,Alive
+30+,White,Married,IIB,93,Alive
+60+,Black,Married,IIA,103,Alive
+60+,White,Married,IIB,72,Dead
+50+,Black,Single ,IIIA,76,Alive
+50+,White,Married,IIIB,52,Dead
+50+,White,Married,IIB,71,Alive
+60+,White,Married,IIIA,81,Alive
+60+,White,Single ,IIA,49,Alive
+40+,White,Divorced,IIIC,84,Dead
+40+,White,Married,IIA,42,Alive
+50+,White,Single ,IIA,102,Alive
+50+,White,Single ,IIA,51,Alive
+50+,White,Divorced,IIA,53,Dead
+40+,White,Married,IIA,98,Alive
+60+,White,Single ,IIIA,51,Alive
+50+,White,Married,IIIA,69,Alive
+50+,White,Divorced,IIIA,40,Alive
+60+,White,Married,IIIA,59,Alive
+60+,White,Married,IIIC,21,Dead
+50+,White,Single ,IIIA,61,Alive
+50+,White,Divorced,IIB,66,Alive
+60+,White,Married,IIA,107,Alive
+60+,White,Married,IIA,94,Alive
+40+,Other,Single ,IIA,77,Alive
+50+,White,Married,IIIA,53,Alive
+50+,White,Married,IIA,76,Alive
+60+,White,Married,IIA,83,Alive
+50+,White,Single ,IIB,67,Alive
+40+,White,Divorced,IIIC,69,Alive
+60+,White,Widowed,IIIA,88,Alive
+60+,White,Married,IIIA,80,Alive
+40+,White,Married,IIB,81,Alive
+40+,White,Divorced,IIIC,47,Alive
+50+,White,Single ,IIB,72,Alive
+60+,White,Married,IIIA,96,Alive
+60+,White,Married,IIIA,60,Alive
+60+,Other,Single ,IIA,67,Alive
+60+,White,Divorced,IIIB,69,Alive
+40+,White,Married,IIIA,58,Alive
+40+,White,Married,IIIA,83,Alive
+40+,White,Married,IIA,101,Alive
+60+,White,Divorced,IIIA,64,Alive
+40+,White,Married,IIIC,31,Dead
+50+,Black,Separated,IIB,91,Alive
+60+,White,Married,IIB,78,Alive
+40+,Black,Married,IIIA,105,Alive
+40+,White,Married,IIB,78,Alive
+50+,White,Married,IIB,40,Dead
+40+,White,Divorced,IIB,92,Alive
+50+,White,Married,IIA,99,Alive
+60+,White,Married,IIA,89,Alive
+60+,White,Married,IIIA,98,Alive
+60+,White,Single ,IIIA,40,Dead
+50+,White,Married,IIIA,76,Alive
+60+,Other,Married,IIA,31,Alive
+30+,White,Married,IIB,95,Alive
+60+,White,Divorced,IIA,71,Alive
+50+,White,Single ,IIB,69,Alive
+50+,White,Married,IIA,106,Alive
+40+,White,Married,IIA,84,Alive
+50+,White,Married,IIB,74,Alive
+30+,White,Married,IIIA,74,Alive
+60+,White,Widowed,IIA,46,Alive
+50+,Black,Single ,IIB,52,Alive
+40+,White,Married,IIB,77,Alive
+60+,White,Divorced,IIB,78,Alive
+40+,Black,Married,IIA,98,Alive
+40+,White,Single ,IIB,49,Alive
+50+,White,Married,IIIA,77,Alive
+40+,White,Married,IIB,71,Alive
+60+,White,Married,IIIA,98,Alive
+60+,White,Married,IIB,83,Alive
+50+,White,Married,IIA,83,Alive
+50+,White,Married,IIIA,74,Alive
+50+,White,Single ,IIA,23,Alive
+40+,White,Divorced,IIA,71,Alive
+40+,White,Single ,IIB,106,Alive
+30+,White,Married,IIA,61,Alive
+50+,White,Widowed,IIA,101,Alive
+40+,White,Single ,IIB,95,Alive
+40+,White,Married,IIA,63,Alive
+60+,White,Married,IIIC,25,Dead
+30+,Other,Married,IIIA,61,Alive
+40+,White,Single ,IIA,59,Dead
+30+,White,Married,IIA,61,Alive
+40+,White,Married,IIA,99,Alive
+50+,Other,Divorced,IIB,73,Alive
+50+,White,Married,IIA,103,Alive
+40+,White,Married,IIA,67,Alive
+50+,White,Married,IIA,86,Alive
+40+,Other,Married,IIA,72,Alive
+50+,Black,Divorced,IIA,59,Alive
+60+,White,Married,IIA,66,Alive
+40+,White,Married,IIIA,64,Alive
+50+,White,Divorced,IIB,64,Alive
+30+,White,Married,IIA,81,Alive
+50+,White,Divorced,IIIA,82,Alive
+30+,White,Divorced,IIIC,83,Alive
+40+,Other,Married,IIB,89,Alive
+40+,White,Single ,IIIC,83,Alive
+60+,White,Divorced,IIIA,47,Dead
+40+,White,Married,IIA,53,Alive
+40+,White,Married,IIB,105,Alive
+40+,White,Married,IIA,106,Alive
+60+,White,Married,IIIC,64,Alive
+50+,White,Married,IIA,100,Alive
+60+,White,Divorced,IIB,81,Alive
+60+,White,Divorced,IIIA,85,Alive
+30+,Other,Single ,IIB,45,Alive
+60+,White,Married,IIB,56,Alive
+60+,White,Married,IIIA,92,Alive
+30+,White,Married,IIA,81,Alive
+30+,White,Married,IIA,76,Dead
+50+,White,Married,IIA,50,Alive
+50+,White,Married,IIIC,49,Alive
+60+,White,Married,IIIA,95,Alive
+50+,White,Single ,IIIA,4,Dead
+40+,White,Married,IIA,20,Alive
+40+,White,Divorced,IIB,95,Alive
+30+,White,Married,IIB,35,Alive
+50+,White,Married,IIIA,98,Alive
+50+,White,Married,IIIA,92,Alive
+60+,White,Divorced,IIIA,60,Alive
+60+,White,Married,IIIA,3,Dead
+60+,White,Widowed,IIA,82,Alive
+60+,White,Widowed,IIIC,25,Dead
+40+,White,Single ,IIIB,66,Alive
+40+,White,Married,IIB,55,Alive
+40+,White,Married,IIIA,15,Alive
+50+,White,Married,IIB,56,Alive
+40+,White,Married,IIIA,59,Dead
+40+,White,Married,IIA,56,Alive
+40+,White,Married,IIA,80,Alive
+40+,Other,Married,IIA,30,Alive
+60+,White,Married,IIA,60,Alive
+50+,White,Married,IIIC,64,Alive
+60+,White,Married,IIA,93,Dead
+40+,White,Single ,IIA,47,Alive
+50+,White,Married,IIB,46,Alive
+30+,Other,Married,IIB,88,Alive
+50+,White,Married,IIA,93,Alive
+50+,White,Married,IIA,93,Alive
+50+,White,Married,IIIA,87,Alive
+40+,White,Married,IIIA,49,Dead
+50+,White,Widowed,IIB,56,Alive
+60+,Black,Widowed,IIIC,4,Dead
+40+,Other,Married,IIA,107,Alive
+40+,White,Single ,IIA,72,Alive
+50+,White,Divorced,IIB,58,Alive
+60+,White,Married,IIA,103,Alive
+60+,White,Married,IIA,94,Alive
+60+,White,Single ,IIB,11,Dead
+60+,White,Married,IIA,102,Alive
+50+,White,Widowed,IIIB,94,Alive
+60+,White,Married,IIA,80,Alive
+60+,Other,Married,IIIC,53,Alive
+40+,White,Married,IIA,48,Alive
+50+,White,Married,IIIA,106,Alive
+50+,White,Divorced,IIIA,86,Alive
+60+,White,Divorced,IIB,78,Alive
+50+,White,Married,IIIC,38,Alive
+50+,White,Divorced,IIA,96,Alive
+50+,White,Married,IIA,98,Alive
+60+,Black,Widowed,IIA,99,Alive
+50+,White,Married,IIA,75,Alive
+40+,White,Divorced,IIA,2,Dead
+50+,White,Married,IIA,102,Alive
+50+,White,Married,IIIA,70,Alive
+50+,Black,Single ,IIIC,14,Dead
+30+,White,Single ,IIIA,60,Alive
+50+,White,Married,IIA,75,Alive
+50+,White,Married,IIA,72,Alive
+60+,White,Single ,IIB,107,Alive
+40+,White,Married,IIA,60,Alive
+60+,White,Married,IIB,101,Alive
+60+,White,Married,IIIA,97,Alive
+40+,White,Married,IIIA,107,Alive
+30+,Other,Married,IIIA,62,Alive
+40+,Other,Divorced,IIB,73,Alive
+60+,White,Single ,IIA,96,Alive
+50+,White,Single ,IIA,91,Alive
+60+,Black,Widowed,IIB,102,Alive
+50+,White,Single ,IIA,64,Alive
+60+,White,Married,IIA,50,Dead
+40+,Black,Married,IIB,52,Alive
+50+,White,Married,IIB,100,Alive
+40+,White,Divorced,IIA,83,Alive
+50+,White,Married,IIA,67,Alive
+50+,Black,Married,IIA,61,Alive
+50+,White,Divorced,IIIA,53,Alive
+40+,White,Divorced,IIA,47,Dead
+50+,White,Married,IIIA,97,Dead
+50+,White,Married,IIB,31,Alive
+40+,White,Divorced,IIB,65,Alive
+40+,White,Married,IIA,75,Alive
+60+,White,Single ,IIA,82,Alive
+60+,White,Divorced,IIA,97,Alive
+60+,White,Married,IIB,37,Dead
+50+,White,Divorced,IIA,58,Alive
+50+,White,Divorced,IIIC,101,Alive
+60+,White,Married,IIA,71,Alive
+40+,White,Single ,IIIA,105,Alive
+50+,White,Divorced,IIA,63,Alive
+50+,White,Married,IIIB,82,Alive
+50+,White,Married,IIIC,66,Alive
+60+,Other,Married,IIB,83,Alive
+40+,White,Married,IIA,61,Alive
+50+,White,Married,IIA,9,Alive
+50+,White,Married,IIA,52,Alive
+60+,White,Widowed,IIA,77,Alive
+50+,White,Married,IIB,54,Dead
+30+,White,Married,IIB,79,Alive
+40+,White,Married,IIIA,47,Alive
+60+,White,Married,IIIC,104,Alive
+50+,White,Divorced,IIB,12,Alive
+50+,White,Married,IIIC,42,Dead
+40+,White,Divorced,IIIA,64,Alive
+30+,White,Married,IIA,96,Alive
+50+,Black,Married,IIA,49,Alive
+60+,White,Married,IIB,81,Alive
+50+,White,Single ,IIA,63,Alive
+50+,White,Married,IIIC,67,Alive
+40+,Black,Divorced,IIIA,83,Alive
+60+,White,Divorced,IIA,107,Alive
+50+,Other,Married,IIIA,106,Alive
+50+,White,Married,IIB,18,Dead
+40+,Black,Single ,IIIA,70,Alive
+40+,Black,Married,IIA,71,Alive
+60+,White,Widowed,IIB,69,Alive
+50+,White,Married,IIA,52,Alive
+60+,White,Married,IIA,91,Alive
+40+,White,Divorced,IIB,64,Alive
+50+,White,Married,IIIA,57,Alive
+50+,White,Divorced,IIIA,96,Alive
+40+,White,Married,IIB,56,Alive
+50+,White,Married,IIB,94,Alive
+60+,White,Married,IIB,22,Dead
+60+,White,Married,IIIA,94,Alive
+30+,White,Married,IIIA,78,Alive
+50+,White,Divorced,IIIA,72,Alive
+60+,White,Married,IIIA,25,Dead
+60+,Other,Widowed,IIIA,69,Alive
+60+,White,Widowed,IIIA,90,Dead
+50+,White,Single ,IIIA,59,Dead
+40+,White,Married,IIA,55,Alive
+30+,White,Single ,IIB,105,Alive
+50+,White,Married,IIA,95,Alive
+50+,White,Married,IIIC,45,Dead
+60+,White,Divorced,IIA,14,Dead
+40+,White,Married,IIIC,56,Dead
+60+,White,Married,IIB,82,Alive
+60+,White,Widowed,IIA,68,Alive
+50+,White,Married,IIA,100,Alive
+40+,White,Married,IIIA,78,Alive
+50+,Other,Married,IIA,105,Alive
+50+,White,Married,IIA,66,Alive
+60+,White,Married,IIA,93,Alive
+30+,Other,Married,IIB,71,Alive
+50+,White,Married,IIIA,80,Alive
+30+,Black,Single ,IIA,21,Dead
+50+,White,Married,IIA,102,Alive
+60+,White,Married,IIIC,84,Alive
+60+,White,Married,IIA,98,Alive
+40+,White,Single ,IIA,75,Alive
+50+,White,Married,IIIA,81,Alive
+40+,White,Single ,IIB,13,Dead
+50+,Other,Married,IIIA,96,Alive
+50+,Black,Single ,IIB,58,Alive
+40+,White,Separated,IIB,100,Dead
+50+,White,Married,IIB,96,Alive
+60+,White,Married,IIB,58,Alive
+40+,White,Married,IIB,73,Alive
+60+,White,Married,IIA,98,Alive
+50+,White,Divorced,IIB,96,Alive
+40+,White,Separated,IIA,89,Alive
+40+,White,Single ,IIIC,6,Dead
+40+,White,Married,IIB,79,Alive
+40+,White,Married,IIIA,77,Alive
+60+,Other,Married,IIA,107,Alive
+40+,White,Married,IIIA,65,Alive
+40+,White,Divorced,IIA,60,Alive
+50+,White,Married,IIB,54,Alive
+40+,Black,Married,IIIA,61,Alive
+50+,Black,Married,IIA,72,Alive
+50+,White,Married,IIIA,71,Alive
+40+,White,Married,IIB,89,Alive
+60+,White,Divorced,IIIC,49,Alive
+40+,White,Married,IIA,106,Alive
+40+,White,Married,IIA,52,Alive
+50+,White,Married,IIB,80,Dead
+50+,White,Married,IIA,73,Alive
+50+,White,Married,IIIA,52,Alive
+50+,White,Married,IIIA,74,Alive
+50+,White,Married,IIIC,55,Alive
+50+,White,Married,IIA,53,Alive
+40+,White,Single ,IIIB,89,Alive
+50+,White,Married,IIIA,72,Alive
+60+,White,Married,IIIC,72,Alive
+40+,White,Single ,IIA,68,Alive
+50+,White,Single ,IIB,55,Alive
+50+,Black,Married,IIA,70,Alive
+40+,White,Married,IIIA,84,Alive
+30+,White,Single ,IIB,80,Dead
+60+,White,Married,IIIA,54,Alive
+40+,White,Married,IIB,8,Alive
+40+,White,Married,IIB,98,Alive
+60+,Other,Single ,IIA,91,Alive
+40+,White,Divorced,IIB,4,Dead
+60+,White,Single ,IIA,101,Alive
+60+,Black,Divorced,IIB,99,Alive
+40+,White,Married,IIA,74,Alive
+30+,White,Married,IIIA,80,Alive
+60+,White,Married,IIIA,70,Alive
+40+,Black,Single ,IIB,69,Alive
+60+,Black,Widowed,IIB,9,Alive
+60+,White,Married,IIA,72,Alive
+50+,White,Married,IIA,100,Alive
+40+,White,Married,IIA,103,Alive
+60+,White,Widowed,IIB,39,Alive
+50+,White,Married,IIIA,87,Alive
+60+,Black,Widowed,IIA,67,Alive
+60+,White,Widowed,IIIC,85,Alive
+50+,White,Married,IIIC,75,Alive
+50+,White,Married,IIB,50,Alive
+60+,White,Married,IIIA,53,Alive
+40+,White,Married,IIA,66,Alive
+50+,White,Married,IIIA,92,Alive
+40+,White,Married,IIA,66,Alive
+50+,White,Married,IIA,26,Alive
+50+,White,Married,IIIA,89,Alive
+50+,White,Divorced,IIIA,53,Dead
+60+,White,Widowed,IIIA,23,Dead
+60+,White,Widowed,IIA,68,Alive
+40+,White,Married,IIB,83,Alive
+40+,White,Single ,IIB,63,Alive
+40+,White,Separated,IIIA,68,Alive
+40+,White,Single ,IIIA,99,Alive
+60+,White,Married,IIB,100,Alive
+50+,White,Married,IIIA,106,Alive
+60+,White,Single ,IIB,102,Alive
+40+,Black,Single ,IIA,27,Dead
+60+,White,Married,IIB,48,Dead
+50+,White,Married,IIIC,91,Alive
+60+,White,Divorced,IIA,63,Alive
+60+,White,Married,IIB,68,Alive
+50+,White,Married,IIIA,77,Dead
+50+,White,Divorced,IIA,100,Alive
+50+,White,Married,IIA,78,Alive
+40+,White,Married,IIA,41,Alive
+60+,White,Married,IIIC,86,Alive
+60+,Other,Widowed,IIA,91,Alive
+40+,White,Married,IIIA,53,Dead
+40+,White,Married,IIIA,56,Alive
+40+,White,Married,IIIB,54,Alive
+50+,White,Married,IIA,106,Alive
+40+,White,Divorced,IIA,101,Alive
+60+,White,Divorced,IIIA,81,Dead
+30+,Other,Married,IIIA,92,Alive
+60+,White,Single ,IIB,102,Alive
+40+,White,Married,IIA,70,Alive
+50+,White,Married,IIIA,30,Dead
+50+,White,Married,IIA,93,Alive
+60+,White,Widowed,IIA,59,Alive
+50+,White,Married,IIB,52,Alive
+40+,White,Divorced,IIIA,63,Dead
+50+,White,Single ,IIB,18,Alive
+40+,White,Married,IIIA,34,Dead
+60+,White,Single ,IIA,59,Alive
+60+,White,Single ,IIIA,107,Alive
+30+,White,Married,IIIC,59,Alive
+40+,Other,Married,IIIA,102,Alive
+50+,White,Married,IIA,49,Alive
+60+,White,Widowed,IIB,56,Alive
+60+,White,Married,IIA,60,Alive
+60+,White,Divorced,IIA,94,Alive
+60+,White,Married,IIIB,55,Dead
+60+,White,Married,IIB,94,Alive
+40+,White,Single ,IIIB,73,Dead
+60+,White,Married,IIIA,91,Alive
+50+,White,Married,IIB,41,Alive
+40+,White,Married,IIA,84,Alive
+50+,White,Divorced,IIIA,52,Dead
+60+,White,Single ,IIIA,6,Dead
+50+,Black,Single ,IIA,65,Alive
+50+,White,Single ,IIA,71,Alive
+30+,White,Married,IIB,66,Alive
+60+,White,Divorced,IIB,65,Alive
+50+,White,Married,IIB,8,Alive
+60+,White,Single ,IIB,79,Alive
+60+,White,Married,IIIC,80,Alive
+60+,White,Married,IIA,62,Alive
+50+,White,Married,IIA,71,Dead
+40+,White,Married,IIA,97,Alive
+60+,White,Widowed,IIIC,102,Alive
+50+,White,Married,IIA,61,Alive
+40+,White,Single ,IIA,61,Alive
+50+,White,Married,IIB,75,Alive
+40+,White,Married,IIB,83,Alive
+60+,White,Married,IIB,44,Dead
+60+,White,Married,IIA,70,Alive
+60+,White,Divorced,IIIA,27,Dead
+60+,White,Divorced,IIB,62,Alive
+50+,White,Married,IIB,69,Alive
+50+,White,Widowed,IIIA,73,Alive
+50+,White,Married,IIIA,63,Alive
+60+,White,Married,IIIA,88,Alive
+60+,White,Divorced,IIIC,69,Alive
+40+,White,Married,IIA,51,Alive
+40+,White,Married,IIIC,9,Dead
+60+,White,Divorced,IIIA,107,Alive
+40+,White,Single ,IIIA,68,Alive
+50+,White,Married,IIA,78,Alive
+40+,White,Single ,IIB,89,Alive
+60+,White,Married,IIIA,96,Alive
+60+,White,Single ,IIA,100,Alive
+60+,Other,Married,IIB,54,Alive
+60+,White,Widowed,IIA,76,Alive
+60+,White,Widowed,IIA,95,Alive
+60+,Other,Married,IIB,98,Alive
+50+,White,Married,IIA,77,Alive
+60+,White,Married,IIIA,87,Alive
+50+,White,Married,IIIB,106,Alive
+40+,White,Married,IIA,97,Alive
+30+,White,Married,IIB,56,Alive
+50+,White,Married,IIB,61,Alive
+50+,White,Married,IIA,67,Alive
+30+,Black,Single ,IIA,98,Alive
+50+,White,Married,IIB,50,Alive
+60+,White,Married,IIIC,73,Alive
+50+,White,Married,IIA,89,Alive
+60+,White,Divorced,IIB,60,Alive
+50+,White,Married,IIB,57,Alive
+60+,White,Married,IIB,107,Alive
+60+,White,Divorced,IIA,94,Alive
+40+,White,Married,IIIA,85,Alive
+40+,Black,Single ,IIA,58,Alive
+60+,White,Married,IIB,102,Alive
+60+,White,Divorced,IIA,16,Dead
+30+,White,Single ,IIIC,61,Alive
+40+,White,Divorced,IIIC,68,Dead
+60+,Black,Married,IIB,57,Alive
+50+,White,Married,IIIA,74,Alive
+60+,White,Married,IIIC,8,Dead
+60+,White,Married,IIA,65,Alive
+50+,Other,Married,IIA,82,Dead
+50+,White,Divorced,IIIC,49,Alive
+40+,White,Divorced,IIIC,59,Dead
+40+,White,Married,IIA,92,Alive
+60+,White,Divorced,IIB,102,Alive
+40+,White,Divorced,IIB,67,Dead
+60+,White,Widowed,IIIC,44,Dead
+50+,White,Single ,IIIC,55,Alive
+60+,White,Married,IIIC,99,Alive
+50+,White,Married,IIIA,60,Alive
+50+,White,Married,IIB,71,Alive
+50+,Other,Married,IIA,66,Alive
+40+,White,Divorced,IIIA,45,Alive
+30+,White,Married,IIIA,103,Alive
+50+,White,Widowed,IIA,85,Alive
+40+,Other,Married,IIIA,82,Alive
+40+,White,Married,IIA,98,Alive
+40+,White,Married,IIB,65,Alive
+40+,White,Widowed,IIA,55,Alive
+30+,White,Married,IIA,53,Dead
+50+,White,Divorced,IIB,63,Alive
+40+,Other,Married,IIB,95,Alive
+50+,White,Married,IIB,106,Alive
+60+,Black,Divorced,IIA,53,Dead
+40+,White,Married,IIIA,89,Alive
+50+,White,Married,IIIA,101,Alive
+50+,White,Married,IIA,98,Alive
+40+,Other,Married,IIA,106,Alive
+60+,White,Divorced,IIIC,98,Alive
+50+,White,Single ,IIA,98,Alive
+60+,White,Single ,IIIA,44,Dead
+60+,White,Married,IIB,82,Alive
+50+,White,Single ,IIA,81,Dead
+60+,White,Divorced,IIIA,65,Alive
+40+,White,Married,IIA,107,Alive
+50+,White,Married,IIA,96,Alive
+40+,Black,Single ,IIB,86,Alive
+40+,White,Married,IIA,94,Alive
+40+,Black,Married,IIIA,72,Alive
+40+,White,Single ,IIB,75,Alive
+40+,White,Divorced,IIA,106,Alive
+50+,White,Widowed,IIIA,56,Alive
+60+,White,Married,IIIA,47,Alive
+40+,White,Married,IIB,58,Alive
+50+,White,Married,IIIA,79,Alive
+60+,White,Married,IIB,101,Alive
+40+,Black,Divorced,IIA,97,Alive
+40+,White,Married,IIB,92,Alive
+40+,White,Married,IIB,95,Alive
+50+,Black,Divorced,IIA,100,Alive
+50+,White,Married,IIA,68,Alive
+30+,White,Married,IIA,58,Alive
+60+,White,Married,IIA,83,Alive
+40+,White,Married,IIB,48,Dead
+50+,White,Married,IIB,82,Alive
+60+,White,Married,IIIA,54,Alive
+60+,White,Single ,IIB,49,Alive
+50+,White,Married,IIA,54,Alive
+60+,White,Married,IIIA,46,Dead
+30+,White,Married,IIIA,91,Alive
+40+,White,Married,IIB,51,Alive
+40+,White,Married,IIIA,8,Alive
+50+,White,Single ,IIIA,91,Alive
+60+,White,Separated,IIB,49,Alive
+30+,White,Widowed,IIIC,81,Dead
+40+,White,Single ,IIIA,36,Dead
+50+,White,Married,IIIA,42,Dead
+40+,White,Married,IIIA,65,Alive
+60+,Black,Married,IIA,87,Dead
+30+,Other,Married,IIA,23,Alive
+60+,White,Married,IIA,68,Alive
+60+,White,Married,IIA,84,Alive
+50+,White,Married,IIIA,76,Alive
+60+,White,Married,IIA,71,Alive
+40+,White,Married,IIIA,49,Alive
+50+,White,Single ,IIB,70,Alive
+60+,White,Married,IIIA,6,Dead
+50+,White,Married,IIIB,43,Dead
+50+,White,Married,IIA,96,Alive
+60+,White,Married,IIIA,42,Alive
+50+,White,Married,IIA,91,Alive
+60+,White,Single ,IIA,64,Alive
+40+,White,Married,IIA,99,Alive
+60+,White,Single ,IIIA,104,Alive
+50+,White,Married,IIIA,65,Alive
+60+,White,Married,IIA,51,Alive
+60+,Other,Married,IIB,80,Alive
+60+,White,Married,IIA,58,Alive
+60+,White,Divorced,IIIC,68,Dead
+60+,White,Widowed,IIA,96,Alive
+60+,White,Married,IIA,90,Alive
+40+,White,Single ,IIA,82,Alive
+40+,White,Married,IIA,97,Alive
+50+,White,Married,IIA,87,Alive
+50+,White,Divorced,IIA,61,Alive
+40+,Other,Married,IIB,101,Alive
+40+,White,Single ,IIIA,77,Alive
+50+,White,Married,IIA,51,Alive
+60+,White,Married,IIA,102,Alive
+40+,Other,Married,IIA,96,Alive
+60+,White,Widowed,IIA,57,Alive
+60+,White,Married,IIIA,93,Alive
+30+,White,Married,IIIA,75,Alive
+50+,White,Single ,IIB,57,Alive
+40+,White,Married,IIIA,105,Alive
+60+,White,Married,IIIA,57,Alive
+40+,White,Married,IIIC,18,Alive
+60+,White,Married,IIIA,55,Alive
+50+,White,Single ,IIA,67,Alive
+50+,White,Married,IIIA,24,Dead
+60+,White,Single ,IIB,69,Alive
+50+,White,Married,IIB,65,Alive
+60+,White,Married,IIIC,68,Alive
+60+,White,Married,IIB,67,Dead
+50+,White,Married,IIA,72,Alive
+60+,White,Widowed,IIIA,55,Alive
+40+,White,Married,IIB,76,Alive
+50+,Black,Married,IIIA,58,Alive
+30+,Other,Single ,IIIC,88,Alive
+50+,White,Married,IIIC,65,Dead
+50+,White,Single ,IIA,59,Alive
+40+,White,Married,IIIC,70,Alive
+60+,White,Married,IIB,99,Alive
+50+,White,Married,IIA,82,Alive
+60+,White,Married,IIA,78,Alive
+60+,White,Married,IIA,96,Alive
+40+,Other,Married,IIIA,15,Alive
+40+,White,Married,IIIA,52,Alive
+60+,White,Married,IIA,97,Alive
+60+,White,Married,IIB,54,Alive
+60+,White,Widowed,IIB,65,Alive
+60+,White,Married,IIA,37,Alive
+50+,White,Married,IIB,69,Alive
+40+,White,Married,IIIA,12,Alive
+40+,White,Single ,IIIA,54,Alive
+40+,White,Married,IIIA,54,Dead
+50+,White,Married,IIA,58,Alive
+50+,White,Married,IIIA,66,Alive
+40+,White,Married,IIIA,95,Alive
+50+,White,Separated,IIB,67,Alive
+40+,Other,Married,IIB,64,Alive
+60+,Other,Married,IIB,81,Alive
+60+,Black,Separated,IIIC,34,Dead
+60+,Other,Widowed,IIIA,78,Alive
+50+,White,Married,IIIA,95,Alive
+60+,White,Married,IIA,88,Alive
+50+,White,Married,IIIA,79,Alive
+60+,White,Married,IIB,27,Dead
+40+,White,Married,IIB,50,Alive
+40+,White,Married,IIA,86,Alive
+60+,White,Married,IIB,92,Alive
+50+,White,Divorced,IIIC,66,Alive
+50+,White,Single ,IIIC,81,Alive
+50+,Other,Married,IIIC,55,Dead
+40+,White,Single ,IIA,63,Alive
+60+,Other,Married,IIIA,77,Alive
+60+,White,Married,IIA,80,Alive
+40+,White,Married,IIA,80,Alive
+50+,White,Divorced,IIIA,53,Alive
+60+,White,Single ,IIA,78,Alive
+50+,White,Married,IIA,76,Alive
+60+,White,Widowed,IIIA,80,Alive
+50+,Other,Widowed,IIB,59,Dead
+40+,White,Single ,IIIA,28,Alive
+40+,White,Single ,IIA,60,Alive
+40+,White,Married,IIB,59,Alive
+60+,White,Married,IIB,76,Alive
+60+,White,Married,IIB,44,Dead
+50+,White,Single ,IIIC,64,Alive
+40+,White,Married,IIA,70,Alive
+40+,White,Married,IIA,77,Alive
+60+,White,Married,IIA,93,Alive
+60+,White,Widowed,IIA,63,Alive
+50+,White,Divorced,IIA,102,Alive
+60+,White,Married,IIA,79,Alive
+60+,White,Divorced,IIB,75,Alive
+40+,White,Married,IIIA,60,Alive
+50+,White,Married,IIA,68,Alive
+50+,White,Divorced,IIIC,93,Alive
+50+,White,Single ,IIA,97,Alive
+40+,White,Divorced,IIB,82,Alive
+40+,White,Married,IIB,56,Dead
+40+,White,Married,IIB,63,Alive
+50+,White,Married,IIA,92,Alive
+60+,White,Divorced,IIB,83,Alive
+40+,Other,Married,IIA,68,Alive
+60+,White,Married,IIIA,58,Alive
+60+,White,Married,IIA,99,Alive
+60+,White,Divorced,IIIA,101,Alive
+40+,White,Married,IIA,100,Alive
+40+,White,Married,IIB,52,Alive
+40+,Other,Divorced,IIA,105,Alive
+60+,White,Married,IIA,96,Alive
+50+,White,Married,IIIA,89,Alive
+40+,White,Married,IIIA,69,Alive
+60+,White,Married,IIB,52,Alive
+40+,White,Married,IIIA,102,Alive
+50+,White,Married,IIB,99,Alive
+50+,White,Separated,IIIA,48,Alive
+40+,White,Married,IIA,90,Alive
+40+,Other,Married,IIIA,2,Alive
+60+,White,Widowed,IIB,50,Alive
+50+,White,Married,IIB,99,Alive
+40+,Other,Divorced,IIB,79,Alive
+40+,Black,Divorced,IIB,51,Alive
+50+,White,Married,IIIA,75,Alive
+30+,White,Married,IIA,83,Alive
+60+,White,Married,IIB,55,Alive
+40+,White,Married,IIIC,99,Dead
+60+,Other,Widowed,IIIA,41,Alive
+40+,White,Married,IIIA,98,Alive
+40+,White,Married,IIIC,77,Alive
+60+,Black,Widowed,IIIC,64,Alive
+40+,White,Married,IIIB,80,Alive
+60+,Black,Single ,IIIC,48,Dead
+40+,Black,Married,IIIA,88,Alive
+50+,White,Married,IIIA,89,Alive
+50+,White,Married,IIA,63,Alive
+40+,White,Married,IIA,57,Alive
+60+,White,Widowed,IIIA,56,Alive
+40+,White,Married,IIB,80,Alive
+40+,White,Married,IIA,84,Alive
+40+,Black,Divorced,IIB,64,Alive
+30+,White,Married,IIB,55,Alive
+60+,White,Married,IIB,94,Alive
+60+,Other,Married,IIB,74,Alive
+40+,Black,Married,IIIA,51,Alive
+50+,White,Married,IIB,104,Alive
+60+,White,Married,IIIA,52,Dead
+40+,White,Married,IIA,88,Alive
+50+,Black,Single ,IIA,78,Alive
+50+,White,Married,IIIA,60,Dead
+40+,White,Married,IIB,97,Alive
+50+,White,Married,IIIA,92,Alive
+50+,White,Married,IIA,64,Alive
+50+,White,Married,IIIB,73,Alive
+40+,White,Married,IIB,42,Alive
+50+,White,Married,IIA,54,Alive
+50+,Other,Married,IIB,98,Alive
+60+,White,Married,IIA,104,Alive
+40+,White,Single ,IIIA,96,Alive
+40+,White,Married,IIIA,103,Alive
+50+,White,Divorced,IIA,78,Alive
+40+,White,Married,IIIA,62,Alive
+50+,White,Divorced,IIIA,65,Alive
+40+,Other,Married,IIIA,54,Alive
+50+,Black,Married,IIIA,69,Alive
+60+,White,Widowed,IIB,102,Alive
+50+,White,Divorced,IIIC,47,Dead
+60+,White,Divorced,IIIC,48,Alive
+60+,White,Married,IIA,81,Alive
+30+,White,Married,IIIC,93,Dead
+50+,White,Divorced,IIB,74,Alive
+50+,White,Married,IIIA,20,Alive
+40+,White,Married,IIB,102,Alive
+50+,White,Married,IIIC,42,Dead
+40+,White,Single ,IIB,91,Alive
+30+,White,Married,IIIC,99,Alive
+40+,Black,Married,IIIA,38,Dead
+60+,White,Married,IIA,58,Alive
+50+,White,Divorced,IIA,94,Alive
+40+,White,Married,IIIA,86,Alive
+50+,White,Single ,IIIA,58,Alive
+50+,White,Divorced,IIIC,55,Alive
+60+,White,Married,IIB,49,Alive
+40+,White,Married,IIIA,68,Alive
+50+,White,Married,IIIA,74,Alive
+60+,White,Single ,IIB,87,Alive
+40+,White,Married,IIB,60,Alive
+40+,White,Married,IIB,52,Alive
+50+,White,Widowed,IIIA,78,Alive
+50+,White,Married,IIIA,82,Alive
+50+,White,Married,IIIA,53,Alive
+40+,White,Divorced,IIIA,86,Alive
+40+,Other,Married,IIIA,70,Dead
+50+,White,Married,IIA,69,Alive
+60+,White,Married,IIA,96,Alive
+50+,Black,Divorced,IIB,69,Alive
+40+,White,Married,IIIA,84,Alive
+50+,Other,Divorced,IIIA,23,Dead
+60+,White,Married,IIIA,70,Alive
+60+,White,Married,IIA,48,Alive
+60+,White,Married,IIIA,81,Alive
+60+,White,Divorced,IIB,84,Alive
+50+,White,Married,IIB,24,Dead
+50+,White,Married,IIIA,49,Alive
+60+,White,Single ,IIIA,86,Dead
+50+,White,Single ,IIA,99,Alive
+60+,White,Divorced,IIIC,69,Alive
+40+,White,Married,IIA,89,Alive
+30+,White,Single ,IIB,83,Alive
+50+,White,Married,IIA,51,Alive
+30+,White,Married,IIIC,34,Dead
+60+,White,Widowed,IIIA,13,Dead
+50+,Black,Separated,IIIA,59,Alive
+30+,White,Single ,IIIC,74,Alive
+40+,Black,Single ,IIA,102,Alive
+50+,Black,Married,IIA,104,Alive
+40+,White,Divorced,IIA,62,Alive
+60+,White,Single ,IIA,60,Alive
+40+,White,Married,IIA,98,Alive
+60+,White,Married,IIB,92,Alive
+40+,White,Married,IIB,78,Alive
+60+,White,Widowed,IIA,76,Alive
+60+,White,Widowed,IIIC,23,Dead
+50+,White,Divorced,IIA,100,Alive
+40+,White,Married,IIA,58,Alive
+30+,White,Single ,IIB,49,Alive
+60+,White,Married,IIB,95,Alive
+60+,White,Single ,IIIC,25,Dead
+40+,White,Single ,IIIA,22,Dead
+50+,White,Married,IIA,54,Alive
+50+,White,Married,IIB,95,Alive
+60+,White,Married,IIB,75,Alive
+40+,White,Married,IIIC,49,Alive
+40+,Black,Divorced,IIB,100,Alive
+40+,White,Married,IIB,76,Alive
+40+,Other,Married,IIIA,89,Alive
+40+,White,Divorced,IIB,63,Alive
+50+,White,Married,IIIA,94,Alive
+50+,Other,Married,IIIC,81,Alive
+50+,White,Divorced,IIIA,96,Alive
+60+,Black,Married,IIIB,103,Alive
+60+,White,Married,IIA,77,Alive
+50+,White,Divorced,IIIA,41,Dead
+60+,White,Married,IIIA,68,Alive
+60+,White,Divorced,IIA,106,Alive
+60+,White,Married,IIIA,66,Alive
+50+,White,Married,IIIC,36,Dead
+50+,White,Married,IIIC,90,Alive
+60+,Black,Single ,IIA,104,Alive
+40+,White,Married,IIA,37,Dead
+30+,White,Single ,IIIC,77,Alive
+50+,White,Married,IIIA,74,Alive
+50+,White,Married,IIIA,63,Alive
+50+,White,Widowed,IIIA,56,Alive
+50+,White,Married,IIIC,60,Alive
+50+,White,Married,IIIB,49,Alive
+40+,White,Married,IIB,90,Alive
+50+,White,Married,IIA,67,Alive
+50+,White,Married,IIA,48,Dead
+50+,White,Divorced,IIA,72,Alive
+50+,White,Married,IIIA,59,Dead
+60+,White,Separated,IIA,95,Alive
+60+,White,Married,IIA,94,Alive
+60+,White,Married,IIIA,79,Alive
+60+,White,Married,IIA,86,Alive
+40+,White,Single ,IIA,60,Alive
+40+,White,Married,IIIC,107,Alive
+50+,White,Married,IIA,91,Alive
+30+,White,Married,IIIB,31,Dead
+60+,White,Married,IIB,49,Alive
+40+,Black,Married,IIIA,103,Alive
+60+,White,Married,IIA,32,Dead
+60+,White,Married,IIA,104,Alive
+30+,White,Married,IIA,93,Alive
+40+,White,Widowed,IIA,99,Alive
+60+,White,Single ,IIA,66,Alive
+40+,White,Married,IIB,57,Alive
+50+,White,Married,IIIA,13,Dead
+40+,White,Married,IIIA,70,Alive
+60+,White,Widowed,IIB,69,Alive
+60+,White,Married,IIA,82,Alive
+40+,White,Married,IIA,90,Alive
+50+,White,Single ,IIB,64,Alive
+60+,White,Married,IIB,56,Alive
+40+,White,Married,IIA,83,Alive
+40+,White,Married,IIA,107,Alive
+60+,White,Married,IIIA,65,Alive
+60+,White,Single ,IIB,102,Alive
+60+,White,Married,IIIA,51,Alive
+40+,White,Married,IIB,85,Alive
+40+,White,Married,IIB,74,Alive
+60+,White,Married,IIA,67,Alive
+50+,White,Married,IIB,64,Alive
+40+,Other,Single ,IIB,106,Alive
+60+,Black,Married,IIIA,82,Dead
+50+,White,Married,IIA,80,Alive
+60+,Other,Widowed,IIB,6,Dead
+50+,White,Married,IIIA,56,Alive
+60+,White,Married,IIA,4,Dead
+50+,White,Married,IIA,98,Alive
+40+,White,Married,IIIA,65,Alive
+50+,White,Married,IIA,53,Alive
+30+,Other,Married,IIIA,64,Alive
+40+,White,Married,IIA,98,Alive
+60+,White,Married,IIIA,70,Alive
+50+,Black,Married,IIB,97,Alive
+50+,White,Married,IIA,62,Alive
+60+,White,Married,IIB,43,Dead
+60+,White,Married,IIB,65,Alive
+50+,White,Married,IIIA,64,Alive
+60+,White,Married,IIIA,72,Alive
+50+,Other,Married,IIIC,106,Alive
+40+,Other,Married,IIA,102,Alive
+60+,White,Widowed,IIIC,29,Dead
+60+,White,Widowed,IIIA,83,Alive
+50+,White,Married,IIIA,68,Alive
+40+,Black,Single ,IIA,22,Dead
+60+,White,Divorced,IIA,57,Alive
+60+,White,Married,IIA,92,Alive
+60+,White,Married,IIA,83,Alive
+60+,White,Divorced,IIIA,48,Alive
+40+,White,Married,IIA,57,Alive
+40+,Black,Married,IIIA,76,Alive
+40+,Black,Married,IIA,72,Alive
+40+,White,Married,IIIA,98,Alive
+50+,White,Divorced,IIA,47,Dead
+60+,Other,Married,IIA,48,Alive
+60+,White,Married,IIA,54,Alive
+30+,White,Married,IIA,62,Alive
+60+,White,Married,IIB,48,Alive
+40+,White,Married,IIIA,61,Alive
+50+,White,Married,IIB,100,Alive
+60+,White,Married,IIA,57,Alive
+60+,White,Widowed,IIIA,24,Dead
+50+,White,Married,IIB,103,Alive
+30+,White,Single ,IIIA,90,Alive
+50+,White,Divorced,IIIC,88,Alive
+50+,Black,Single ,IIA,64,Alive
+50+,White,Married,IIA,82,Alive
+50+,Other,Married,IIA,88,Alive
+40+,White,Married,IIIA,38,Alive
+50+,White,Divorced,IIB,82,Alive
+50+,Other,Married,IIB,35,Dead
+50+,White,Married,IIIA,84,Alive
+40+,White,Married,IIB,64,Alive
+40+,White,Married,IIB,100,Alive
+40+,White,Married,IIIA,60,Alive
+40+,Other,Single ,IIA,59,Alive
+40+,White,Divorced,IIA,80,Alive
+50+,White,Married,IIA,73,Alive
+50+,White,Widowed,IIIC,51,Dead
+40+,White,Married,IIIA,88,Alive
+40+,Black,Single ,IIIA,65,Alive
+50+,White,Married,IIIC,102,Alive
+60+,White,Married,IIA,72,Alive
+40+,White,Married,IIIA,63,Alive
+40+,White,Married,IIA,44,Alive
+50+,White,Married,IIB,98,Alive
+50+,White,Married,IIA,100,Alive
+50+,White,Single ,IIIA,104,Alive
+40+,White,Single ,IIB,106,Alive
+60+,White,Single ,IIIA,69,Alive
+50+,Black,Divorced,IIIC,90,Alive
+60+,White,Married,IIB,93,Alive
+60+,White,Single ,IIA,49,Alive
+60+,White,Married,IIIC,73,Alive
+60+,White,Widowed,IIIC,75,Alive
+60+,White,Married,IIA,72,Alive
+40+,Black,Single ,IIIA,7,Dead
+50+,White,Married,IIB,51,Alive
+40+,White,Married,IIB,103,Alive
+60+,White,Married,IIA,101,Alive
+30+,White,Married,IIIA,69,Alive
+60+,White,Single ,IIIA,78,Alive
+40+,Black,Divorced,IIB,74,Alive
+50+,White,Divorced,IIA,103,Alive
+50+,White,Divorced,IIA,63,Alive
+60+,Other,Married,IIIC,48,Dead
+50+,White,Widowed,IIIA,66,Alive
+30+,Other,Married,IIA,53,Alive
+60+,White,Married,IIIA,66,Dead
+50+,White,Married,IIIA,95,Alive
+60+,White,Married,IIB,46,Dead
+50+,Other,Divorced,IIIC,66,Alive
+60+,White,Married,IIA,104,Alive
+50+,White,Single ,IIA,82,Alive
+50+,White,Single ,IIA,76,Alive
+50+,White,Married,IIB,92,Alive
+60+,Black,Divorced,IIIA,46,Dead
+50+,White,Married,IIB,82,Alive
+60+,White,Married,IIIB,20,Dead
+50+,White,Divorced,IIB,50,Dead
+50+,White,Married,IIIA,48,Alive
+60+,White,Single ,IIIA,13,Dead
+50+,White,Single ,IIIC,83,Alive
+50+,White,Married,IIIA,90,Alive
+60+,White,Married,IIIA,77,Alive
+60+,White,Married,IIA,94,Alive
+40+,White,Married,IIIA,16,Dead
+50+,White,Single ,IIA,78,Alive
+40+,White,Single ,IIA,99,Alive
+60+,White,Married,IIA,85,Alive
+40+,Black,Divorced,IIIA,65,Alive
+50+,White,Divorced,IIB,75,Alive
+40+,White,Married,IIIA,51,Alive
+50+,White,Married,IIIB,77,Dead
+40+,White,Married,IIB,85,Alive
+40+,White,Married,IIB,94,Alive
+50+,Other,Married,IIB,70,Alive
+50+,White,Married,IIA,87,Alive
+50+,White,Divorced,IIIA,65,Alive
+60+,White,Married,IIIA,89,Alive
+50+,White,Married,IIB,86,Dead
+60+,White,Married,IIIC,80,Dead
+50+,White,Married,IIA,70,Alive
+50+,White,Separated,IIB,81,Alive
+50+,White,Married,IIIC,51,Dead
+50+,White,Married,IIB,68,Alive
+50+,White,Divorced,IIIB,62,Alive
+50+,White,Divorced,IIIB,107,Alive
+40+,Other,Married,IIIA,105,Alive
+50+,White,Single ,IIIC,58,Dead
+50+,White,Single ,IIIA,51,Alive
+60+,White,Married,IIB,105,Alive
+50+,White,Married,IIA,106,Alive
+60+,White,Married,IIA,93,Alive
+40+,White,Divorced,IIB,67,Alive
+50+,Black,Married,IIB,71,Alive
+60+,White,Married,IIA,50,Alive
+60+,Other,Widowed,IIB,64,Alive
+60+,Black,Widowed,IIA,67,Alive
+50+,White,Married,IIA,99,Alive
+60+,Other,Married,IIA,68,Alive
+40+,Black,Married,IIB,18,Dead
+40+,White,Married,IIIC,98,Alive
+50+,White,Married,IIA,73,Alive
+30+,Black,Single ,IIB,43,Dead
+40+,White,Married,IIB,95,Alive
+50+,White,Single ,IIA,83,Alive
+50+,White,Divorced,IIB,72,Alive
+40+,Other,Married,IIA,37,Alive
+40+,White,Married,IIIA,74,Alive
+50+,White,Married,IIB,101,Alive
+50+,White,Married,IIA,78,Alive
+50+,White,Married,IIA,76,Alive
+50+,White,Widowed,IIA,80,Alive
+50+,White,Divorced,IIIC,59,Alive
+40+,White,Married,IIA,97,Alive
+50+,White,Widowed,IIIA,104,Alive
+60+,White,Divorced,IIIA,55,Alive
+60+,White,Married,IIB,58,Alive
+50+,White,Married,IIIA,104,Alive
+30+,Black,Single ,IIA,99,Alive
+60+,White,Married,IIB,82,Alive
+60+,White,Married,IIB,61,Alive
+40+,Other,Married,IIIA,102,Alive
+40+,White,Married,IIIC,55,Alive
+60+,Other,Married,IIA,83,Alive
+60+,White,Married,IIA,48,Alive
+60+,White,Married,IIIA,33,Dead
+40+,White,Married,IIIA,49,Alive
+30+,White,Single ,IIB,84,Alive
+60+,White,Married,IIIA,42,Dead
+30+,Other,Married,IIIA,84,Alive
+40+,White,Married,IIIA,71,Alive
+50+,White,Married,IIB,56,Alive
+60+,White,Widowed,IIB,51,Dead
+60+,White,Single ,IIIA,59,Alive
+40+,White,Married,IIB,57,Alive
+40+,White,Divorced,IIA,101,Alive
+40+,Other,Married,IIIC,53,Alive
+40+,White,Married,IIA,95,Alive
+60+,White,Married,IIB,97,Alive
+50+,White,Widowed,IIIA,92,Alive
+50+,White,Married,IIA,52,Alive
+40+,White,Married,IIB,81,Alive
+50+,White,Married,IIB,21,Alive
+60+,White,Married,IIA,55,Alive
+60+,White,Married,IIIC,67,Alive
+60+,White,Married,IIA,62,Alive
+50+,White,Divorced,IIB,93,Alive
+60+,White,Divorced,IIA,83,Alive
+30+,Other,Married,IIIA,52,Alive
+50+,White,Single ,IIIA,60,Alive
+50+,White,Married,IIB,56,Alive
+40+,Other,Married,IIB,94,Alive
+50+,White,Single ,IIB,92,Alive
+50+,White,Married,IIIC,32,Dead
+30+,Other,Single ,IIIB,26,Dead
+40+,Other,Married,IIIA,55,Alive
+50+,White,Widowed,IIIC,81,Alive
+40+,Black,Married,IIB,62,Alive
+30+,White,Married,IIB,33,Dead
+50+,Other,Married,IIIA,94,Alive
+60+,White,Single ,IIB,80,Alive
+40+,White,Single ,IIIA,29,Dead
+60+,Other,Married,IIIA,100,Alive
+50+,White,Married,IIIC,84,Dead
+60+,White,Married,IIIC,77,Alive
+40+,Black,Divorced,IIA,107,Alive
+60+,White,Divorced,IIIA,83,Dead
+50+,White,Married,IIIA,64,Alive
+50+,White,Married,IIIC,95,Alive
+50+,White,Married,IIB,59,Dead
+50+,White,Married,IIB,67,Alive
+60+,Black,Widowed,IIIA,93,Alive
+40+,White,Divorced,IIA,80,Alive
+30+,Black,Married,IIA,91,Alive
+40+,White,Married,IIA,49,Alive
+40+,White,Married,IIA,73,Alive
+60+,White,Single ,IIB,80,Alive
+40+,White,Married,IIIC,79,Alive
+60+,Black,Widowed,IIA,9,Dead
+60+,White,Widowed,IIB,107,Alive
+40+,White,Single ,IIIC,103,Alive
+40+,White,Married,IIIA,95,Alive
+40+,White,Married,IIB,92,Alive
+50+,White,Married,IIA,60,Dead
+60+,White,Married,IIIA,53,Alive
+40+,White,Married,IIB,60,Alive
+30+,White,Divorced,IIIA,79,Alive
+40+,Black,Single ,IIA,49,Alive
+60+,White,Single ,IIA,45,Alive
+60+,White,Widowed,IIA,68,Alive
+50+,White,Married,IIIA,96,Alive
+50+,White,Married,IIA,32,Dead
+60+,White,Divorced,IIIC,56,Dead
+60+,White,Widowed,IIB,104,Alive
+40+,Black,Married,IIIA,86,Alive
+40+,White,Married,IIIA,11,Dead
+40+,White,Married,IIA,104,Alive
+40+,White,Married,IIIA,70,Dead
+60+,White,Divorced,IIIC,10,Dead
+60+,Black,Married,IIA,56,Alive
+60+,White,Widowed,IIB,35,Dead
+50+,White,Married,IIB,52,Alive
+50+,White,Divorced,IIIA,49,Alive
+50+,White,Married,IIIA,52,Dead
+50+,White,Married,IIIA,85,Alive
+50+,White,Single ,IIA,76,Alive
+40+,White,Married,IIA,79,Alive
+50+,Black,Single ,IIIA,40,Dead
+50+,Black,Divorced,IIA,83,Alive
+40+,White,Married,IIB,49,Alive
+60+,White,Married,IIB,51,Dead
+60+,White,Married,IIA,48,Alive
+50+,Black,Divorced,IIB,98,Alive
+40+,White,Married,IIIA,94,Alive
+40+,White,Married,IIIA,77,Alive
+50+,White,Single ,IIIC,52,Dead
+50+,White,Married,IIB,99,Alive
+40+,White,Married,IIIA,67,Alive
+30+,White,Single ,IIB,77,Alive
+60+,White,Widowed,IIA,69,Alive
+50+,Black,Single ,IIA,50,Alive
+60+,White,Single ,IIB,16,Dead
+60+,White,Married,IIA,59,Alive
+50+,White,Married,IIIA,88,Alive
+30+,Other,Married,IIIA,52,Alive
+40+,Black,Married,IIA,67,Alive
+50+,White,Married,IIIA,52,Alive
+50+,White,Married,IIA,102,Alive
+40+,White,Single ,IIIA,104,Alive
+40+,White,Married,IIB,85,Alive
+60+,White,Married,IIB,82,Alive
+40+,Other,Married,IIB,105,Alive
+60+,White,Widowed,IIA,65,Alive
+60+,White,Married,IIA,48,Alive
+50+,White,Divorced,IIB,38,Alive
+60+,Black,Divorced,IIIA,101,Alive
+60+,White,Widowed,IIIA,59,Dead
+40+,White,Married,IIA,105,Alive
+40+,White,Widowed,IIIA,71,Alive
+60+,White,Married,IIA,84,Alive
+40+,White,Married,IIIC,65,Alive
+50+,White,Married,IIA,97,Alive
+50+,White,Married,IIB,75,Alive
+30+,White,Married,IIA,99,Alive
+30+,White,Married,IIA,48,Alive
+60+,White,Married,IIA,81,Alive
+50+,White,Married,IIIA,51,Alive
+50+,White,Married,IIB,81,Alive
+40+,White,Married,IIIA,53,Dead
+60+,White,Married,IIIA,89,Alive
+50+,White,Married,IIIA,69,Alive
+40+,White,Married,IIIA,100,Alive
+40+,Other,Married,IIIB,88,Alive
+40+,White,Single ,IIIA,57,Alive
+40+,White,Divorced,IIIC,67,Dead
+50+,White,Married,IIA,63,Alive
+40+,White,Married,IIA,52,Alive
+50+,White,Married,IIIB,97,Alive
+50+,White,Married,IIB,51,Alive
+50+,White,Married,IIB,54,Alive
+40+,White,Divorced,IIB,53,Alive
+50+,White,Married,IIB,61,Alive
+40+,White,Married,IIA,66,Alive
+50+,White,Married,IIIA,49,Alive
+40+,White,Single ,IIA,82,Alive
+50+,White,Married,IIB,78,Alive
+50+,White,Married,IIIC,82,Dead
+60+,White,Married,IIA,79,Alive
+30+,White,Married,IIIB,27,Dead
+50+,White,Married,IIIC,101,Alive
+50+,White,Married,IIIA,89,Alive
+40+,White,Single ,IIIA,88,Alive
+40+,White,Married,IIA,53,Alive
+60+,White,Married,IIIA,63,Alive
+40+,White,Married,IIA,59,Alive
+50+,White,Single ,IIA,78,Alive
+60+,White,Married,IIIA,61,Alive
+60+,White,Single ,IIA,91,Alive
+50+,Other,Divorced,IIA,59,Alive
+50+,White,Divorced,IIIA,93,Alive
+50+,White,Single ,IIA,48,Alive
+60+,White,Married,IIA,80,Alive
+50+,White,Divorced,IIIA,66,Alive
+60+,White,Married,IIIA,68,Alive
+60+,White,Married,IIA,77,Alive
+60+,White,Widowed,IIB,88,Alive
+40+,White,Married,IIB,49,Dead
+50+,White,Widowed,IIIA,83,Alive
+60+,White,Single ,IIB,106,Alive
+50+,White,Divorced,IIB,61,Alive
+60+,White,Married,IIB,103,Alive
+60+,White,Married,IIIA,82,Dead
+50+,White,Married,IIIA,70,Alive
+50+,White,Divorced,IIIC,10,Dead
+40+,White,Single ,IIB,81,Dead
+50+,White,Married,IIA,51,Dead
+40+,White,Married,IIA,84,Alive
+50+,White,Married,IIIA,90,Alive
+40+,White,Widowed,IIIA,104,Alive
+60+,White,Married,IIA,105,Alive
+50+,White,Single ,IIIA,98,Alive
+30+,White,Divorced,IIB,44,Alive
+40+,White,Single ,IIIA,90,Alive
+40+,White,Married,IIA,73,Alive
+40+,White,Married,IIB,88,Alive
+50+,Other,Divorced,IIIA,61,Alive
+50+,White,Separated,IIIA,89,Alive
+60+,White,Married,IIB,64,Alive
+60+,White,Married,IIB,107,Alive
+50+,White,Single ,IIIC,56,Alive
+50+,White,Single ,IIB,70,Alive
+40+,White,Married,IIB,101,Alive
+40+,White,Married,IIB,57,Alive
+60+,White,Married,IIIA,85,Alive
+50+,White,Married,IIIC,66,Alive
+50+,White,Divorced,IIIC,13,Dead
+50+,White,Divorced,IIIB,66,Alive
+50+,White,Married,IIIC,106,Alive
+60+,White,Widowed,IIIA,104,Alive
+30+,White,Married,IIA,79,Alive
+30+,White,Married,IIIC,73,Alive
+50+,White,Married,IIIC,101,Alive
+40+,White,Married,IIIA,94,Alive
+50+,White,Divorced,IIIA,100,Alive
+30+,White,Married,IIB,69,Alive
+40+,White,Divorced,IIA,51,Alive
+60+,White,Married,IIB,98,Alive
+40+,White,Divorced,IIB,82,Dead
+50+,White,Married,IIA,98,Alive
+40+,White,Married,IIA,100,Alive
+40+,White,Single ,IIA,56,Alive
+50+,White,Married,IIA,70,Alive
+60+,White,Married,IIA,90,Alive
+50+,White,Married,IIA,84,Alive
+40+,White,Married,IIA,81,Alive
+40+,White,Married,IIA,75,Alive
+50+,White,Divorced,IIIA,59,Alive
+60+,White,Single ,IIIA,48,Alive
+50+,White,Married,IIA,89,Alive
+40+,White,Married,IIB,102,Alive
+50+,White,Single ,IIB,45,Dead
+60+,White,Married,IIA,39,Dead
+50+,White,Married,IIIA,92,Alive
+60+,Black,Divorced,IIIC,42,Dead
+40+,White,Single ,IIB,51,Alive
+40+,White,Married,IIIA,105,Alive
+40+,White,Married,IIIA,68,Alive
+30+,White,Single ,IIIA,87,Alive
+50+,White,Single ,IIA,103,Alive
+40+,White,Single ,IIA,70,Alive
+60+,White,Married,IIIA,89,Alive
+50+,Other,Married,IIIA,60,Alive
+60+,White,Single ,IIB,57,Alive
+40+,White,Married,IIB,84,Alive
+40+,White,Single ,IIB,95,Alive
+40+,Other,Married,IIB,82,Alive
+40+,White,Married,IIB,67,Alive
+40+,White,Married,IIIA,63,Alive
+50+,White,Divorced,IIIA,17,Dead
+60+,White,Widowed,IIB,57,Alive
+50+,Other,Married,IIIC,80,Alive
+50+,Other,Married,IIIC,77,Alive
+40+,White,Separated,IIB,30,Dead
+60+,White,Married,IIA,71,Alive
+40+,White,Divorced,IIIA,65,Alive
+50+,White,Married,IIIA,98,Alive
+50+,White,Married,IIB,44,Dead
+60+,White,Single ,IIA,60,Alive
+60+,White,Married,IIA,60,Alive
+60+,White,Married,IIIA,34,Dead
+50+,White,Married,IIA,101,Alive
+50+,White,Single ,IIA,84,Alive
+50+,White,Married,IIA,94,Alive
+30+,White,Married,IIIA,41,Dead
+40+,Black,Single ,IIIA,57,Alive
+50+,White,Married,IIB,97,Alive
+50+,White,Divorced,IIB,105,Alive
+40+,White,Married,IIA,80,Alive
+30+,White,Married,IIIC,102,Alive
+60+,White,Married,IIA,93,Alive
+40+,White,Married,IIA,39,Alive
+60+,White,Married,IIA,106,Alive
+40+,White,Single ,IIA,100,Alive
+50+,White,Married,IIIC,65,Dead
+40+,Other,Married,IIIC,97,Alive
+50+,Black,Married,IIIC,84,Alive
+40+,White,Married,IIA,86,Alive
+50+,Other,Divorced,IIB,52,Alive
+40+,White,Married,IIA,56,Alive
+50+,White,Married,IIB,91,Alive
+40+,White,Single ,IIIA,52,Dead
+40+,White,Married,IIB,20,Alive
+50+,White,Married,IIIA,70,Alive
+50+,White,Married,IIB,71,Alive
+40+,White,Married,IIA,44,Alive
+50+,White,Married,IIB,69,Alive
+60+,White,Married,IIIA,87,Alive
+60+,White,Married,IIIC,84,Alive
+50+,Other,Married,IIIA,79,Alive
+50+,White,Married,IIA,77,Alive
+60+,White,Divorced,IIIA,92,Alive
+60+,White,Married,IIA,91,Alive
+40+,White,Married,IIA,79,Alive
+50+,White,Married,IIA,50,Alive
+30+,White,Married,IIB,86,Alive
+50+,White,Married,IIA,98,Alive
+60+,White,Divorced,IIIA,43,Dead
+40+,White,Married,IIIC,61,Dead
+60+,White,Married,IIIA,99,Alive
+60+,Black,Married,IIB,55,Alive
+60+,White,Married,IIIA,86,Alive
+60+,White,Married,IIB,87,Alive
+50+,White,Single ,IIB,104,Alive
+60+,White,Divorced,IIIC,68,Dead
+60+,White,Single ,IIIA,63,Alive
+60+,Black,Married,IIIA,55,Dead
+30+,White,Married,IIB,88,Alive
+40+,White,Single ,IIA,98,Alive
+60+,White,Married,IIB,56,Alive
+40+,White,Single ,IIB,38,Dead
+60+,Black,Single ,IIIA,73,Alive
+40+,White,Married,IIIA,40,Dead
+40+,White,Married,IIA,49,Alive
+60+,White,Married,IIA,90,Alive
+60+,White,Married,IIA,93,Alive
+50+,White,Married,IIA,50,Alive
+60+,White,Married,IIIA,35,Dead
+50+,White,Married,IIB,59,Alive
+40+,White,Married,IIB,103,Alive
+60+,White,Married,IIIB,68,Alive
+30+,Black,Married,IIA,98,Alive
+50+,White,Divorced,IIB,87,Alive
+50+,White,Single ,IIIC,63,Dead
+60+,White,Married,IIA,92,Alive
+40+,White,Married,IIB,59,Alive
+40+,White,Married,IIIA,22,Dead
+60+,White,Single ,IIIC,93,Dead
+50+,Black,Single ,IIB,71,Alive
+40+,White,Married,IIA,102,Alive
+60+,White,Married,IIIB,95,Alive
+40+,Black,Single ,IIA,53,Alive
+60+,White,Widowed,IIIA,50,Alive
+50+,White,Married,IIA,45,Alive
+60+,White,Married,IIB,79,Alive
+60+,White,Widowed,IIA,94,Alive
+40+,White,Single ,IIA,105,Alive
+60+,Black,Single ,IIIA,80,Alive
+60+,White,Single ,IIIA,67,Alive
+40+,White,Married,IIA,13,Alive
+50+,White,Married,IIIA,66,Alive
+60+,White,Married,IIA,75,Alive
+50+,White,Divorced,IIA,78,Alive
+30+,Other,Married,IIIA,44,Dead
+40+,White,Married,IIIA,65,Alive
+50+,White,Separated,IIIC,100,Alive
+60+,White,Widowed,IIB,96,Alive
+50+,White,Divorced,IIIA,81,Alive
+60+,White,Married,IIIC,35,Dead
+40+,White,Married,IIB,64,Alive
+60+,White,Divorced,IIA,88,Alive
+40+,White,Single ,IIIC,61,Dead
+50+,White,Married,IIB,53,Alive
+30+,White,Married,IIB,74,Alive
+60+,White,Married,IIIC,25,Dead
+40+,White,Married,IIIA,78,Alive
+60+,White,Widowed,IIA,75,Alive
+50+,White,Married,IIA,99,Alive
+60+,White,Married,IIB,61,Alive
+40+,White,Married,IIIA,78,Alive
+50+,White,Married,IIA,53,Alive
+60+,White,Widowed,IIA,41,Dead
+60+,White,Married,IIA,96,Alive
+60+,White,Married,IIIA,105,Alive
+60+,Black,Divorced,IIB,97,Alive
+40+,White,Married,IIA,84,Alive
+60+,Other,Married,IIA,6,Dead
+40+,White,Married,IIB,82,Alive
+50+,White,Married,IIA,38,Alive
+50+,White,Divorced,IIB,98,Alive
+50+,White,Married,IIB,75,Alive
+60+,White,Married,IIB,91,Alive
+40+,Other,Married,IIB,77,Alive
+40+,White,Married,IIIC,44,Dead
+50+,Other,Single ,IIIA,20,Dead
+50+,White,Married,IIB,95,Alive
+40+,White,Divorced,IIB,93,Alive
+50+,White,Divorced,IIIC,69,Alive
+50+,White,Married,IIIA,76,Alive
+50+,White,Married,IIIC,39,Dead
+60+,White,Single ,IIA,30,Dead
+50+,White,Widowed,IIIA,48,Alive
+60+,White,Single ,IIA,37,Alive
+50+,White,Married,IIB,54,Alive
+50+,White,Married,IIIA,85,Alive
+50+,White,Married,IIA,24,Alive
+40+,White,Single ,IIB,54,Alive
+40+,White,Married,IIIA,65,Alive
+50+,Black,Married,IIIA,63,Alive
+40+,White,Single ,IIA,97,Alive
+60+,White,Widowed,IIB,63,Alive
+30+,White,Single ,IIA,75,Alive
+40+,Other,Single ,IIIA,100,Dead
+50+,White,Married,IIB,78,Alive
+50+,White,Married,IIIA,78,Alive
+50+,White,Married,IIIA,48,Alive
+40+,White,Married,IIIA,81,Dead
+60+,White,Married,IIIA,69,Alive
+50+,Black,Married,IIIC,83,Alive
+50+,White,Married,IIB,22,Alive
+40+,White,Married,IIIA,106,Alive
+50+,White,Married,IIB,27,Alive
+60+,White,Married,IIIC,97,Alive
+30+,White,Married,IIIA,61,Alive
+40+,White,Single ,IIIA,62,Alive
+50+,White,Single ,IIIA,98,Alive
+50+,Other,Married,IIIA,63,Alive
+60+,White,Single ,IIB,101,Alive
+60+,White,Married,IIA,67,Alive
+60+,White,Married,IIIA,68,Alive
+30+,White,Married,IIB,61,Alive
+60+,Black,Divorced,IIIC,41,Dead
+40+,White,Single ,IIB,77,Alive
+60+,White,Married,IIA,98,Alive
+60+,White,Married,IIB,48,Alive
+60+,White,Divorced,IIA,74,Alive
+50+,White,Married,IIIA,69,Alive
+40+,White,Married,IIB,94,Alive
+40+,White,Divorced,IIB,95,Alive
+50+,Black,Single ,IIB,67,Alive
+50+,White,Married,IIA,56,Alive
+50+,Other,Married,IIB,102,Alive
+40+,White,Divorced,IIB,74,Alive
+50+,White,Single ,IIB,102,Alive
+40+,White,Married,IIB,65,Alive
+60+,Black,Married,IIA,69,Alive
+60+,White,Widowed,IIIA,101,Alive
+50+,White,Single ,IIA,80,Alive
+50+,White,Married,IIB,83,Alive
+60+,White,Single ,IIIC,62,Alive
+60+,White,Widowed,IIB,60,Alive
+50+,White,Married,IIA,40,Dead
+60+,White,Divorced,IIB,105,Alive
+50+,Other,Married,IIIC,18,Dead
+50+,White,Married,IIA,78,Alive
+40+,White,Single ,IIB,75,Alive
+40+,White,Married,IIB,99,Alive
+50+,White,Married,IIIA,88,Alive
+40+,White,Married,IIB,50,Alive
+40+,White,Single ,IIIA,88,Alive
+60+,Other,Married,IIIC,102,Alive
+40+,White,Married,IIIA,105,Alive
+50+,White,Divorced,IIIC,51,Alive
+50+,White,Married,IIA,92,Alive
+60+,White,Married,IIIC,23,Dead
+60+,White,Single ,IIIA,70,Alive
+40+,White,Divorced,IIB,74,Alive
+50+,White,Married,IIB,78,Alive
+50+,White,Married,IIIC,50,Alive
+40+,White,Married,IIA,35,Alive
+40+,White,Married,IIB,57,Alive
+50+,White,Married,IIB,79,Alive
+50+,Black,Married,IIIC,34,Dead
+40+,White,Married,IIIA,95,Alive
+40+,Black,Married,IIB,72,Alive
+40+,White,Divorced,IIA,50,Alive
+60+,White,Married,IIIA,92,Alive
+40+,White,Married,IIB,107,Alive
+40+,White,Married,IIB,59,Alive
+40+,White,Married,IIIC,94,Alive
+60+,White,Married,IIB,57,Alive
+60+,White,Married,IIA,64,Alive
+60+,White,Single ,IIIC,60,Alive
+60+,White,Separated,IIA,74,Dead
+60+,White,Widowed,IIIA,56,Alive
+40+,Other,Married,IIIA,96,Alive
+60+,White,Single ,IIIA,63,Alive
+50+,White,Divorced,IIB,83,Alive
+50+,White,Divorced,IIB,54,Alive
+60+,White,Separated,IIA,80,Dead
+50+,White,Married,IIA,74,Alive
+50+,White,Married,IIIA,66,Alive
+50+,White,Single ,IIA,89,Alive
+50+,White,Single ,IIA,86,Alive
+60+,White,Divorced,IIA,96,Dead
+50+,Other,Married,IIIC,68,Alive
+60+,White,Divorced,IIB,66,Alive
+50+,White,Widowed,IIIA,58,Alive
+60+,White,Single ,IIIC,76,Alive
+60+,Other,Married,IIB,83,Alive
+50+,White,Married,IIB,107,Alive
+40+,Black,Married,IIB,23,Alive
+60+,White,Married,IIIB,75,Dead
+40+,White,Married,IIA,76,Alive
+40+,White,Divorced,IIIA,67,Alive
+50+,White,Married,IIIA,55,Alive
+50+,White,Married,IIIA,59,Alive
+50+,White,Married,IIB,78,Alive
+50+,White,Married,IIA,66,Alive
+60+,White,Married,IIA,53,Alive
+50+,White,Married,IIB,41,Alive
+50+,White,Married,IIA,55,Alive
+40+,White,Married,IIA,50,Alive
+50+,Black,Single ,IIIA,60,Alive
+50+,White,Widowed,IIIA,47,Alive
+60+,White,Married,IIA,54,Alive
+40+,Black,Single ,IIB,101,Alive
+50+,Black,Single ,IIIA,18,Dead
+60+,White,Married,IIA,85,Alive
+60+,White,Married,IIB,55,Alive
+60+,White,Divorced,IIB,87,Alive
+50+,White,Divorced,IIA,50,Alive
+60+,White,Married,IIIC,81,Alive
+40+,White,Married,IIB,64,Alive
+50+,White,Single ,IIB,75,Alive
+50+,White,Married,IIB,69,Alive
+40+,White,Divorced,IIA,61,Alive
+40+,Other,Married,IIIA,89,Alive
+60+,White,Married,IIA,65,Alive
+50+,White,Married,IIA,63,Alive
+50+,White,Married,IIA,107,Alive
+50+,Other,Married,IIB,50,Alive
+30+,White,Single ,IIIA,64,Alive
+40+,White,Divorced,IIIC,6,Dead
+50+,White,Married,IIA,31,Dead
+50+,White,Married,IIB,36,Dead
+50+,White,Married,IIIA,100,Alive
+50+,White,Single ,IIA,81,Alive
+40+,White,Married,IIIC,55,Alive
+60+,White,Married,IIB,48,Alive
+40+,White,Separated,IIA,54,Alive
+50+,White,Married,IIA,55,Alive
+40+,White,Single ,IIIC,88,Alive
+60+,White,Married,IIA,66,Alive
+50+,White,Married,IIA,67,Alive
+60+,White,Married,IIIA,63,Alive
+40+,White,Widowed,IIIA,96,Alive
+40+,Black,Separated,IIIC,14,Dead
+40+,White,Single ,IIIC,71,Alive
+50+,White,Married,IIB,49,Alive
+40+,White,Married,IIIA,85,Alive
+40+,Other,Married,IIB,41,Alive
+50+,White,Divorced,IIA,60,Alive
+40+,White,Married,IIIA,72,Alive
+60+,White,Married,IIIA,4,Dead
+60+,White,Married,IIB,53,Alive
+60+,White,Married,IIB,73,Alive
+40+,White,Married,IIA,85,Alive
+50+,White,Married,IIB,90,Alive
+60+,Other,Single ,IIA,70,Alive
+50+,White,Married,IIIA,10,Dead
+50+,White,Married,IIIA,94,Alive
+60+,Black,Widowed,IIIC,63,Alive
+40+,White,Married,IIIC,51,Dead
+60+,White,Single ,IIIA,68,Alive
+60+,White,Married,IIB,65,Alive
+50+,White,Married,IIIA,92,Alive
+40+,Other,Married,IIIA,21,Dead
+60+,White,Divorced,IIA,63,Alive
+50+,White,Married,IIB,86,Alive
+50+,White,Divorced,IIIA,53,Alive
+60+,White,Married,IIB,29,Dead
+40+,White,Married,IIA,97,Alive
+60+,Black,Divorced,IIIC,20,Dead
+40+,Black,Divorced,IIA,94,Alive
+40+,Other,Married,IIIA,81,Alive
+60+,White,Single ,IIB,55,Alive
+50+,White,Married,IIB,96,Alive
+40+,White,Divorced,IIB,68,Alive
+60+,White,Married,IIA,94,Alive
+50+,White,Married,IIIA,54,Alive
+60+,Other,Married,IIB,75,Alive
+40+,White,Married,IIA,76,Alive
+60+,Other,Married,IIB,52,Alive
+60+,White,Single ,IIIC,55,Alive
+60+,White,Married,IIA,94,Alive
+40+,White,Married,IIIA,49,Alive
+50+,White,Married,IIB,85,Alive
+60+,White,Married,IIA,62,Alive
+40+,Black,Single ,IIA,50,Alive
+40+,White,Single ,IIIA,97,Alive
+50+,White,Married,IIB,51,Alive
+50+,White,Widowed,IIIA,50,Alive
+60+,White,Divorced,IIIA,40,Alive
+40+,White,Married,IIB,99,Alive
+40+,Other,Married,IIA,59,Alive
+50+,White,Single ,IIB,95,Alive
+40+,White,Single ,IIB,41,Alive
+50+,White,Married,IIIA,83,Alive
+40+,White,Single ,IIB,80,Alive
+40+,White,Separated,IIIA,25,Dead
+60+,White,Married,IIA,82,Alive
+40+,White,Married,IIIA,56,Dead
+50+,White,Married,IIB,30,Dead
+60+,White,Married,IIB,79,Alive
+60+,White,Divorced,IIA,88,Alive
+50+,White,Married,IIA,45,Dead
+50+,White,Married,IIA,92,Alive
+50+,White,Married,IIA,86,Alive
+60+,White,Divorced,IIB,73,Alive
+60+,White,Married,IIB,52,Dead
+50+,White,Married,IIB,55,Alive
+50+,White,Married,IIA,69,Alive
+60+,White,Married,IIA,88,Alive
+40+,White,Divorced,IIIA,107,Alive
+40+,Black,Single ,IIB,88,Alive
+40+,White,Married,IIB,97,Alive
+60+,White,Widowed,IIA,98,Alive
+60+,White,Married,IIB,85,Alive
+40+,White,Married,IIB,58,Alive
+50+,White,Married,IIIA,100,Alive
+50+,White,Single ,IIIC,84,Alive
+50+,White,Married,IIB,70,Alive
+60+,White,Married,IIA,55,Alive
+50+,White,Divorced,IIA,86,Alive
+50+,White,Married,IIIA,95,Alive
+60+,Black,Married,IIIA,106,Alive
+50+,White,Married,IIIC,95,Alive
+50+,White,Married,IIA,70,Alive
+60+,White,Married,IIA,72,Alive
+50+,White,Married,IIIA,81,Alive
+60+,White,Married,IIIA,92,Alive
+60+,White,Married,IIA,84,Alive
+60+,White,Single ,IIA,68,Alive
+60+,White,Single ,IIIA,64,Dead
+60+,Other,Married,IIB,101,Alive
+60+,White,Divorced,IIA,69,Alive
+60+,White,Divorced,IIIC,67,Alive
+60+,White,Widowed,IIA,89,Alive
+50+,White,Married,IIB,104,Alive
+60+,White,Married,IIA,77,Alive
+40+,White,Married,IIA,93,Alive
+40+,White,Divorced,IIIC,99,Alive
+40+,White,Married,IIB,78,Alive
+50+,White,Separated,IIIA,27,Dead
+60+,White,Married,IIA,52,Alive
+50+,White,Married,IIIA,35,Dead
+40+,White,Married,IIA,82,Alive
+60+,White,Married,IIIA,48,Alive
+40+,White,Married,IIB,44,Alive
+40+,White,Single ,IIB,98,Alive
+60+,White,Divorced,IIB,95,Alive
+50+,White,Married,IIB,52,Alive
+60+,White,Widowed,IIA,91,Alive
+60+,White,Married,IIA,103,Alive
+50+,Black,Married,IIIB,43,Dead
+50+,White,Single ,IIA,61,Alive
+60+,White,Married,IIIA,100,Alive
+60+,White,Married,IIIA,86,Alive
+50+,White,Married,IIIA,101,Alive
+40+,White,Divorced,IIB,95,Dead
+60+,Black,Widowed,IIIA,85,Alive
+60+,White,Married,IIIA,83,Alive
+50+,White,Divorced,IIB,77,Alive
+60+,White,Divorced,IIIA,93,Alive
+50+,Black,Married,IIIA,102,Alive
+60+,Other,Widowed,IIB,93,Dead
+60+,Black,Married,IIB,62,Alive
+60+,White,Married,IIA,95,Alive
+40+,White,Married,IIIC,84,Alive
+50+,White,Married,IIA,68,Alive
+30+,White,Married,IIIC,10,Dead
+60+,White,Married,IIB,54,Alive
+50+,White,Married,IIA,55,Alive
+40+,White,Married,IIA,48,Alive
+40+,White,Married,IIA,51,Alive
+40+,Other,Single ,IIIA,98,Alive
+50+,White,Divorced,IIA,101,Alive
+40+,White,Married,IIA,68,Alive
+60+,White,Married,IIB,78,Alive
+60+,Black,Married,IIA,68,Alive
+60+,White,Married,IIIA,75,Alive
+50+,White,Married,IIIA,63,Alive
+40+,White,Married,IIIA,94,Alive
+60+,White,Married,IIA,67,Alive
+40+,White,Married,IIIA,56,Alive
+50+,White,Divorced,IIIC,24,Dead
+50+,White,Married,IIB,63,Alive
+40+,Black,Single ,IIA,61,Alive
+40+,White,Married,IIA,54,Alive
+50+,White,Separated,IIIC,42,Alive
+40+,White,Single ,IIA,84,Alive
+40+,White,Divorced,IIB,78,Alive
+50+,White,Single ,IIB,107,Alive
+60+,Other,Widowed,IIA,75,Alive
+30+,White,Married,IIIC,86,Alive
+40+,White,Married,IIIA,91,Alive
+50+,White,Married,IIIA,49,Alive
+40+,Other,Married,IIA,91,Alive
+40+,White,Separated,IIIA,45,Dead
+40+,White,Married,IIIA,70,Alive
+60+,White,Married,IIA,51,Dead
+60+,White,Divorced,IIIA,50,Alive
+60+,White,Widowed,IIA,98,Alive
+50+,White,Married,IIB,38,Dead
+40+,Other,Married,IIA,106,Alive
+50+,White,Married,IIB,95,Alive
+50+,White,Married,IIA,85,Alive
+60+,White,Widowed,IIB,93,Alive
+50+,White,Married,IIIC,22,Dead
+50+,Other,Widowed,IIIC,22,Dead
+50+,White,Single ,IIIA,66,Alive
+60+,White,Married,IIIA,106,Alive
+40+,White,Married,IIA,93,Alive
+30+,White,Married,IIB,74,Dead
+50+,White,Divorced,IIA,100,Alive
+50+,White,Married,IIB,58,Alive
+60+,Other,Widowed,IIB,84,Alive
+50+,White,Married,IIIB,36,Dead
+50+,White,Single ,IIB,107,Alive
+60+,White,Married,IIA,87,Alive
+40+,White,Married,IIA,79,Alive
+60+,White,Married,IIIA,56,Dead
+40+,White,Divorced,IIA,82,Alive
+40+,White,Married,IIIA,105,Alive
+60+,White,Married,IIB,82,Alive
+60+,White,Married,IIA,68,Alive
+40+,White,Single ,IIA,69,Alive
+40+,White,Married,IIA,63,Alive
+50+,White,Married,IIB,65,Alive
+50+,White,Married,IIIC,62,Alive
+40+,White,Married,IIA,85,Alive
+60+,White,Married,IIIC,73,Alive
+50+,White,Married,IIIA,56,Alive
+40+,White,Married,IIB,59,Alive
+30+,White,Separated,IIA,72,Alive
+50+,White,Married,IIA,80,Alive
+40+,White,Married,IIIA,72,Alive
+60+,White,Married,IIIA,53,Alive
+50+,White,Married,IIIA,99,Alive
+60+,White,Married,IIB,56,Alive
+50+,White,Married,IIA,57,Alive
+40+,White,Married,IIA,27,Dead
+60+,White,Married,IIIA,99,Alive
+40+,Black,Single ,IIIA,95,Alive
+50+,White,Married,IIA,69,Alive
+40+,White,Divorced,IIIA,104,Alive
+40+,White,Married,IIB,100,Alive
+50+,White,Married,IIA,49,Alive
+50+,Other,Married,IIIC,96,Alive
+60+,White,Married,IIA,103,Alive
+50+,White,Married,IIIA,23,Dead
+50+,White,Married,IIIB,71,Alive
+60+,White,Married,IIB,58,Alive
+50+,White,Married,IIIA,65,Alive
+50+,White,Married,IIIA,33,Alive
+40+,White,Married,IIB,88,Alive
+50+,White,Divorced,IIB,62,Alive
+50+,White,Divorced,IIB,59,Alive
+60+,White,Married,IIIA,81,Alive
+60+,White,Married,IIB,97,Alive
+40+,Other,Married,IIIA,103,Alive
+50+,White,Married,IIA,88,Alive
+50+,White,Married,IIB,88,Alive
+50+,White,Single ,IIB,96,Alive
+40+,Other,Married,IIA,52,Alive
+40+,White,Married,IIIA,100,Alive
+50+,White,Single ,IIB,56,Alive
+60+,White,Divorced,IIIA,41,Dead
+40+,White,Married,IIA,88,Alive
+40+,White,Married,IIA,77,Alive
+60+,White,Married,IIIA,88,Alive
+60+,White,Married,IIB,89,Alive
+60+,White,Married,IIA,102,Alive
+50+,White,Married,IIIA,63,Alive
+30+,Other,Married,IIB,78,Alive
+60+,White,Married,IIA,83,Alive
+40+,Other,Married,IIIA,55,Alive
+60+,White,Married,IIB,100,Alive
+50+,White,Married,IIIB,45,Alive
+60+,White,Married,IIB,41,Dead
+60+,White,Single ,IIIA,96,Alive
+40+,White,Married,IIA,86,Alive
+60+,White,Married,IIIA,68,Alive
+30+,Other,Married,IIIA,73,Alive
+50+,White,Widowed,IIIA,50,Alive
+40+,White,Married,IIA,89,Alive
+50+,Other,Married,IIB,71,Alive
+50+,White,Married,IIIA,92,Dead
+40+,White,Married,IIIC,101,Alive
+60+,Black,Single ,IIB,89,Alive
+40+,White,Married,IIIC,92,Alive
+60+,White,Separated,IIB,93,Alive
+60+,White,Single ,IIB,88,Alive
+50+,White,Married,IIB,88,Alive
+60+,White,Married,IIIC,72,Alive
+40+,White,Single ,IIB,85,Alive
+40+,White,Married,IIIC,90,Alive
+60+,White,Widowed,IIIC,19,Dead
+60+,White,Married,IIIA,88,Alive
+60+,White,Married,IIIC,75,Alive
+40+,White,Single ,IIIB,80,Alive
+60+,White,Divorced,IIA,51,Alive
+50+,White,Married,IIA,50,Alive
+40+,White,Single ,IIB,101,Alive
+40+,White,Married,IIB,99,Alive
+60+,White,Married,IIA,89,Alive
+40+,Black,Married,IIA,70,Alive
+50+,White,Widowed,IIA,62,Alive
+60+,White,Married,IIA,76,Alive
+60+,White,Married,IIB,98,Alive
+30+,Other,Married,IIIC,56,Alive
+50+,White,Single ,IIA,105,Alive
+40+,White,Married,IIB,103,Alive
+50+,Black,Single ,IIB,12,Dead
+60+,Other,Married,IIA,75,Alive
+40+,White,Married,IIIA,62,Dead
+50+,White,Married,IIA,60,Alive
+40+,White,Widowed,IIA,96,Alive
+30+,White,Single ,IIIA,99,Alive
+50+,White,Married,IIA,79,Alive
+50+,Other,Married,IIB,83,Alive
+40+,White,Divorced,IIA,54,Alive
+60+,White,Widowed,IIB,56,Alive
+50+,White,Single ,IIB,83,Alive
+40+,Black,Single ,IIB,90,Alive
+50+,White,Married,IIB,107,Alive
+40+,White,Married,IIA,100,Alive
+50+,Other,Divorced,IIA,62,Alive
+60+,White,Married,IIA,51,Alive
+40+,White,Married,IIIC,95,Alive
+50+,White,Married,IIIC,29,Dead
+50+,White,Divorced,IIA,72,Alive
+50+,White,Married,IIIA,57,Alive
+50+,Other,Single ,IIA,93,Alive
+40+,Other,Married,IIB,75,Alive
+40+,White,Married,IIIA,56,Alive
+50+,White,Married,IIB,73,Alive
+60+,White,Single ,IIA,70,Alive
+40+,White,Married,IIIC,69,Alive
+40+,White,Divorced,IIIC,58,Alive
+60+,White,Married,IIB,100,Alive
+60+,White,Divorced,IIB,61,Alive
+50+,White,Married,IIB,64,Alive
+40+,White,Married,IIA,105,Alive
+40+,White,Married,IIA,67,Alive
+40+,White,Married,IIB,89,Alive
+50+,White,Married,IIB,93,Alive
+40+,White,Married,IIB,100,Alive
+60+,White,Married,IIB,78,Alive
+50+,White,Married,IIA,93,Alive
+40+,Black,Single ,IIB,67,Alive
+40+,White,Married,IIIC,57,Dead
+40+,White,Married,IIB,72,Alive
+40+,White,Divorced,IIB,67,Alive
+40+,White,Married,IIIA,53,Dead
+50+,White,Married,IIA,103,Alive
+50+,White,Married,IIIC,64,Alive
+60+,Other,Married,IIIC,38,Alive
+50+,White,Single ,IIIB,31,Dead
+40+,Other,Married,IIA,100,Alive
+40+,White,Married,IIA,55,Alive
+50+,Black,Married,IIB,86,Alive
+40+,White,Single ,IIIA,63,Alive
+60+,White,Married,IIIA,41,Dead
+50+,White,Married,IIA,65,Alive
+50+,White,Single ,IIIC,41,Dead
+60+,White,Married,IIA,65,Alive
+60+,White,Married,IIIC,62,Alive
+50+,White,Single ,IIIA,58,Alive
+50+,White,Married,IIA,50,Dead
+40+,White,Married,IIA,67,Alive
+60+,White,Married,IIB,104,Alive
+60+,White,Widowed,IIA,55,Alive
+60+,White,Widowed,IIB,102,Alive
+30+,White,Married,IIIA,69,Alive
+50+,White,Married,IIA,14,Dead
+40+,Black,Married,IIB,61,Dead
+40+,Black,Single ,IIB,52,Alive
+40+,White,Married,IIB,83,Alive
+60+,White,Married,IIB,69,Alive
+40+,White,Married,IIB,80,Alive
+60+,White,Divorced,IIA,60,Dead
+40+,White,Married,IIIA,73,Dead
+50+,White,Married,IIB,63,Alive
+50+,White,Married,IIB,63,Alive
+60+,White,Married,IIA,49,Alive
+50+,White,Married,IIA,69,Alive
+50+,White,Divorced,IIB,74,Alive
+50+,White,Married,IIA,52,Alive
+40+,White,Married,IIIA,75,Alive
+60+,White,Married,IIB,90,Alive
+50+,White,Married,IIA,6,Dead
+50+,White,Divorced,IIA,88,Alive
+50+,White,Married,IIIA,83,Alive
+50+,Other,Married,IIB,58,Alive
+60+,White,Married,IIIA,62,Alive
+40+,Other,Divorced,IIB,100,Alive
+50+,White,Married,IIB,56,Alive
+50+,White,Married,IIIA,59,Alive
+50+,White,Married,IIA,71,Alive
+50+,White,Married,IIB,97,Alive
+40+,White,Married,IIB,57,Dead
+50+,White,Single ,IIIA,81,Alive
+40+,White,Married,IIIB,98,Alive
+60+,White,Married,IIA,50,Alive
+50+,Other,Divorced,IIB,79,Alive
+60+,White,Married,IIIA,46,Dead
+40+,White,Married,IIB,87,Dead
+50+,White,Married,IIA,79,Alive
+60+,White,Married,IIIB,34,Dead
+30+,Other,Married,IIIC,48,Alive
+50+,White,Single ,IIA,48,Alive
+50+,Other,Married,IIIA,96,Alive
+60+,White,Married,IIIA,89,Alive
+40+,White,Married,IIB,81,Alive
+60+,White,Married,IIA,76,Alive
+40+,Other,Married,IIIA,70,Alive
+50+,White,Widowed,IIB,82,Alive
+50+,White,Single ,IIIA,105,Alive
+50+,Black,Single ,IIIA,101,Alive
+50+,Black,Widowed,IIIA,90,Alive
+60+,White,Widowed,IIB,39,Dead
+50+,Black,Widowed,IIIC,105,Alive
+30+,Other,Married,IIIA,69,Dead
+60+,White,Widowed,IIIC,88,Alive
+50+,White,Married,IIA,51,Alive
+60+,White,Divorced,IIB,20,Dead
+50+,White,Divorced,IIIA,63,Dead
+40+,White,Married,IIIA,80,Alive
+60+,Other,Married,IIA,81,Alive
+40+,White,Married,IIA,55,Alive
+60+,White,Married,IIB,78,Alive
+60+,White,Married,IIA,97,Alive
+40+,White,Married,IIB,105,Alive
+60+,White,Single ,IIB,55,Alive
+50+,White,Divorced,IIB,56,Alive
+60+,White,Married,IIB,50,Alive
+60+,White,Single ,IIA,65,Alive
+50+,Black,Widowed,IIIA,4,Dead
+40+,White,Divorced,IIB,50,Alive
+60+,White,Widowed,IIIC,61,Dead
+50+,White,Single ,IIB,87,Alive
+40+,White,Married,IIA,81,Alive
+40+,Other,Married,IIB,83,Alive
+50+,Black,Married,IIA,72,Alive
+50+,White,Married,IIIA,50,Alive
+60+,White,Married,IIB,65,Alive
+50+,White,Married,IIA,88,Alive
+60+,White,Married,IIA,36,Dead
+40+,White,Married,IIA,59,Alive
+50+,White,Married,IIA,63,Alive
+50+,White,Married,IIA,105,Alive
+60+,Other,Married,IIIA,54,Alive
+60+,White,Married,IIA,56,Alive
+50+,White,Married,IIB,62,Alive
+60+,White,Married,IIIA,59,Alive
+40+,White,Married,IIB,93,Dead
+50+,White,Divorced,IIIA,63,Alive
+60+,Black,Married,IIIA,47,Dead
+60+,White,Married,IIB,48,Alive
+50+,White,Married,IIA,79,Alive
+60+,Black,Married,IIIC,69,Alive
+50+,White,Married,IIIA,88,Alive
+60+,White,Divorced,IIA,60,Alive
+40+,White,Married,IIIA,22,Dead
+60+,White,Married,IIIA,51,Alive
+60+,White,Married,IIA,107,Alive
+60+,White,Divorced,IIIA,74,Dead
+60+,White,Married,IIIA,50,Dead
+40+,White,Married,IIIA,80,Alive
+60+,White,Divorced,IIA,77,Alive
+40+,Other,Married,IIB,102,Alive
+50+,White,Divorced,IIB,66,Alive
+60+,White,Divorced,IIIA,63,Alive
+50+,White,Married,IIB,97,Dead
+50+,White,Single ,IIIA,106,Alive
+40+,White,Married,IIB,84,Alive
+50+,White,Married,IIIA,79,Alive
+50+,White,Single ,IIIA,81,Dead
+60+,White,Married,IIIC,93,Alive
+60+,White,Widowed,IIA,54,Alive
+50+,White,Divorced,IIB,54,Alive
+60+,White,Widowed,IIB,64,Alive
+40+,White,Single ,IIIA,91,Alive
+50+,White,Married,IIIC,99,Alive
+60+,White,Married,IIB,98,Alive
+50+,White,Married,IIIA,88,Alive
+40+,White,Married,IIA,73,Alive
+40+,White,Divorced,IIIA,93,Alive
+60+,White,Divorced,IIB,86,Alive
+40+,White,Married,IIB,71,Dead
+50+,White,Separated,IIIA,74,Alive
+60+,White,Widowed,IIA,54,Alive
+40+,White,Married,IIB,68,Alive
+50+,White,Married,IIB,76,Alive
+50+,White,Single ,IIA,73,Alive
+50+,White,Married,IIB,98,Alive
+50+,White,Married,IIB,64,Alive
+40+,White,Married,IIB,81,Dead
+60+,White,Married,IIIA,58,Dead
+40+,Other,Single ,IIIC,92,Alive
+50+,White,Widowed,IIA,84,Alive
+50+,White,Divorced,IIIC,89,Alive
+60+,White,Married,IIIC,63,Dead
+50+,White,Married,IIB,61,Alive
+60+,White,Married,IIA,105,Alive
+40+,White,Married,IIB,85,Alive
+60+,White,Married,IIIA,48,Alive
+60+,White,Divorced,IIIA,26,Dead
+40+,White,Married,IIA,56,Alive
+60+,Other,Married,IIA,100,Alive
+50+,Black,Single ,IIB,56,Dead
+60+,White,Married,IIIA,63,Alive
+50+,White,Divorced,IIA,97,Alive
+50+,Black,Married,IIB,82,Dead
+50+,White,Single ,IIIA,48,Alive
+40+,White,Married,IIA,105,Alive
+60+,White,Widowed,IIA,98,Alive
+60+,White,Single ,IIIC,69,Dead
+30+,White,Married,IIA,72,Alive
+50+,White,Married,IIA,63,Alive
+50+,White,Married,IIB,89,Alive
+50+,White,Married,IIA,66,Alive
+50+,White,Single ,IIA,96,Alive
+60+,White,Married,IIA,104,Alive
+50+,Other,Married,IIA,64,Alive
+30+,White,Married,IIIC,107,Alive
+50+,White,Married,IIB,86,Alive
+50+,White,Married,IIA,48,Dead
+60+,White,Married,IIIA,66,Alive
+60+,White,Married,IIIA,91,Alive
+50+,White,Married,IIIA,94,Alive
+50+,White,Married,IIIA,58,Alive
+60+,Other,Divorced,IIIC,83,Alive
+40+,White,Single ,IIB,65,Alive
+60+,White,Divorced,IIA,57,Alive
+60+,White,Married,IIA,80,Alive
+50+,White,Married,IIB,96,Alive
+60+,White,Single ,IIIA,63,Dead
+40+,White,Married,IIIA,82,Dead
+60+,White,Married,IIA,94,Alive
+60+,White,Married,IIA,61,Alive
+40+,White,Divorced,IIIA,102,Alive
+60+,Black,Single ,IIA,103,Alive
+60+,Black,Widowed,IIB,78,Alive
+40+,Other,Married,IIIA,48,Alive
+50+,White,Married,IIIC,41,Alive
+40+,White,Single ,IIA,93,Alive
+60+,White,Divorced,IIB,84,Alive
+60+,White,Married,IIB,72,Alive
+50+,White,Divorced,IIB,60,Alive
+40+,White,Married,IIB,53,Alive
+50+,White,Single ,IIIA,91,Dead
+60+,Other,Married,IIA,78,Alive
+50+,White,Married,IIIA,41,Alive
+50+,White,Divorced,IIIB,21,Dead
+40+,Black,Married,IIB,76,Alive
+60+,White,Widowed,IIA,31,Dead
+60+,White,Divorced,IIIA,12,Dead
+60+,White,Widowed,IIB,33,Dead
+50+,White,Married,IIB,56,Alive
+40+,White,Married,IIB,95,Alive
+40+,White,Married,IIA,63,Alive
+40+,White,Divorced,IIB,97,Alive
+60+,White,Divorced,IIB,63,Dead
+50+,White,Married,IIIC,47,Dead
+40+,White,Married,IIB,49,Alive
+40+,White,Married,IIA,93,Alive
+50+,White,Widowed,IIIC,78,Alive
+40+,Other,Married,IIIA,77,Alive
+60+,White,Single ,IIA,97,Alive
+50+,White,Divorced,IIA,72,Alive
+50+,Black,Married,IIIC,89,Alive
+50+,White,Divorced,IIB,45,Alive
+50+,White,Single ,IIA,86,Alive
+50+,White,Married,IIA,74,Alive
+30+,Black,Single ,IIA,57,Alive
+60+,White,Single ,IIIA,59,Alive
+40+,Other,Married,IIB,61,Alive
+60+,White,Divorced,IIA,79,Alive
+50+,White,Married,IIIC,100,Alive
+60+,White,Married,IIA,76,Alive
+60+,White,Divorced,IIB,72,Alive
+50+,White,Married,IIIA,52,Alive
+40+,White,Married,IIIC,107,Alive
+40+,White,Single ,IIIA,74,Alive
+50+,White,Married,IIA,56,Alive
+50+,Black,Single ,IIIA,95,Alive
+40+,White,Married,IIB,89,Alive
+40+,White,Married,IIA,78,Alive
+40+,White,Married,IIA,59,Alive
+30+,Other,Single ,IIIA,95,Alive
+50+,Black,Married,IIB,63,Alive
+50+,White,Divorced,IIB,66,Alive
+50+,White,Married,IIIA,67,Alive
+40+,White,Married,IIB,43,Dead
+50+,White,Married,IIIA,69,Alive
+60+,White,Married,IIB,70,Alive
+50+,White,Divorced,IIA,101,Alive
+40+,White,Divorced,IIB,87,Alive
+50+,White,Divorced,IIIA,102,Alive
+40+,White,Married,IIIC,81,Alive
+50+,White,Married,IIB,23,Dead
+50+,White,Married,IIA,69,Alive
+60+,White,Married,IIIA,28,Dead
+40+,White,Married,IIIA,78,Alive
+50+,White,Widowed,IIB,105,Alive
+60+,Black,Single ,IIA,46,Dead
+50+,White,Married,IIA,51,Alive
+50+,White,Married,IIB,14,Alive
+50+,White,Single ,IIIC,95,Alive
+60+,White,Married,IIB,56,Alive
+30+,White,Married,IIB,33,Alive
+50+,Black,Married,IIIA,49,Alive
+50+,White,Single ,IIB,8,Dead
+50+,Black,Married,IIB,82,Alive
+40+,White,Married,IIIA,73,Alive
+50+,White,Married,IIIA,69,Alive
+40+,White,Single ,IIB,84,Alive
+40+,White,Married,IIB,83,Alive
+30+,Black,Married,IIA,91,Alive
+40+,White,Married,IIA,101,Alive
+50+,Other,Married,IIIA,49,Alive
+40+,White,Married,IIIA,67,Alive
+60+,White,Married,IIIA,48,Dead
+40+,Other,Married,IIIA,66,Alive
+40+,White,Married,IIA,64,Alive
+60+,White,Married,IIIC,104,Alive
+60+,White,Married,IIB,75,Dead
+40+,Other,Married,IIA,67,Alive
+40+,White,Married,IIA,97,Alive
+30+,White,Single ,IIA,66,Alive
+60+,White,Married,IIB,64,Alive
+40+,White,Married,IIIA,82,Dead
+50+,White,Married,IIIA,77,Alive
+60+,Other,Single ,IIIB,78,Alive
+40+,White,Married,IIA,96,Alive
+40+,White,Married,IIIA,78,Alive
+40+,White,Married,IIB,107,Alive
+40+,White,Married,IIB,83,Alive
+60+,White,Married,IIA,55,Alive
+50+,White,Married,IIIC,99,Alive
+50+,White,Married,IIIC,66,Alive
+40+,White,Married,IIIA,60,Alive
+30+,Other,Married,IIA,93,Alive
+30+,Black,Single ,IIIA,75,Dead
+50+,White,Married,IIIA,87,Dead
+60+,White,Married,IIIA,66,Alive
+40+,White,Single ,IIB,106,Alive
+50+,White,Married,IIA,46,Dead
+60+,Black,Divorced,IIIC,11,Dead
+50+,White,Married,IIB,83,Alive
+50+,White,Single ,IIIA,89,Alive
+30+,White,Single ,IIB,84,Alive
+30+,White,Single ,IIB,48,Alive
+60+,Black,Single ,IIIA,71,Alive
+40+,White,Single ,IIB,50,Alive
+40+,White,Married,IIIA,107,Alive
+40+,White,Married,IIB,56,Alive
+40+,White,Married,IIA,84,Alive
+50+,White,Single ,IIA,68,Alive
+50+,White,Widowed,IIA,76,Alive
+40+,Other,Separated,IIIA,62,Alive
+50+,White,Divorced,IIIC,59,Alive
+60+,White,Married,IIA,53,Alive
+60+,White,Single ,IIIA,50,Alive
+30+,White,Single ,IIIA,12,Alive
+40+,White,Married,IIIA,51,Alive
+60+,White,Married,IIIA,36,Dead
+60+,White,Married,IIB,58,Alive
+40+,White,Married,IIIA,75,Alive
+50+,Black,Married,IIIA,61,Alive
+60+,White,Widowed,IIIC,84,Alive
+50+,White,Married,IIA,86,Alive
+40+,Black,Married,IIA,80,Alive
+30+,Black,Single ,IIIA,5,Dead
+40+,Other,Married,IIB,75,Alive
+50+,White,Single ,IIIB,81,Alive
+60+,White,Divorced,IIIA,58,Alive
+50+,White,Widowed,IIIA,82,Alive
+40+,White,Single ,IIB,85,Alive
+40+,Black,Single ,IIB,66,Dead
+60+,White,Widowed,IIA,84,Alive
+40+,White,Divorced,IIA,101,Alive
+40+,Black,Single ,IIB,55,Alive
+60+,Black,Divorced,IIIC,72,Alive
+50+,Black,Married,IIIC,47,Dead
+40+,White,Married,IIA,47,Alive
+50+,White,Divorced,IIIC,104,Alive
+40+,Other,Married,IIB,68,Alive
+40+,White,Divorced,IIIC,30,Dead
+50+,White,Single ,IIIA,102,Alive
+50+,White,Single ,IIIA,57,Alive
+50+,White,Married,IIIA,88,Alive
+50+,White,Married,IIIA,83,Alive
+60+,Black,Single ,IIB,38,Dead
+60+,White,Married,IIB,67,Alive
+50+,White,Married,IIIA,89,Alive
+30+,White,Divorced,IIIC,24,Dead
+60+,White,Single ,IIB,92,Alive
+40+,Black,Single ,IIB,60,Dead
+40+,Other,Married,IIIA,53,Alive
+60+,White,Married,IIA,84,Alive
+60+,White,Married,IIIA,87,Alive
+50+,White,Married,IIB,64,Alive
+40+,Other,Married,IIIC,60,Alive
+60+,White,Married,IIB,63,Alive
+60+,White,Widowed,IIA,84,Alive
+50+,White,Married,IIA,91,Alive
+50+,White,Separated,IIIC,17,Dead
+60+,White,Married,IIIA,100,Alive
+40+,White,Married,IIIC,86,Alive
+60+,White,Divorced,IIA,77,Alive
+60+,White,Married,IIA,102,Alive
+50+,White,Married,IIA,107,Alive
+50+,White,Married,IIB,107,Alive
+60+,Other,Married,IIIA,89,Alive
+40+,White,Married,IIA,51,Alive
+60+,White,Single ,IIIA,55,Alive
+40+,White,Married,IIB,27,Alive
+50+,White,Married,IIIA,55,Dead
+40+,White,Single ,IIB,87,Alive
+50+,White,Married,IIIA,56,Alive
+50+,White,Single ,IIA,52,Alive
+60+,White,Married,IIIC,102,Dead
+50+,White,Married,IIIA,77,Alive
+50+,White,Married,IIB,69,Alive
+40+,Other,Single ,IIIA,23,Alive
+40+,White,Married,IIIA,80,Alive
+60+,White,Married,IIIC,83,Alive
+60+,White,Single ,IIB,63,Alive
+50+,White,Married,IIIA,69,Alive
+40+,White,Single ,IIA,49,Alive
+50+,White,Married,IIIA,35,Dead
+40+,White,Single ,IIIA,57,Alive
+60+,White,Married,IIIC,41,Dead
+40+,Other,Married,IIA,105,Alive
+40+,White,Married,IIB,88,Alive
+40+,White,Divorced,IIB,94,Alive
+60+,White,Divorced,IIIB,105,Alive
+50+,White,Married,IIIA,48,Alive
+50+,White,Married,IIA,62,Alive
+50+,White,Married,IIB,77,Alive
+50+,White,Married,IIB,102,Alive
+40+,White,Married,IIB,84,Alive
+30+,White,Married,IIA,75,Alive
+40+,White,Married,IIA,97,Alive
+50+,White,Married,IIA,87,Alive
+50+,White,Married,IIIA,59,Alive
+50+,White,Married,IIB,105,Alive
+50+,White,Married,IIA,63,Alive
+50+,White,Married,IIA,102,Alive
+40+,White,Single ,IIB,107,Alive
+50+,White,Married,IIIA,66,Alive
+50+,White,Married,IIB,69,Alive
+60+,White,Married,IIA,61,Alive
+50+,White,Single ,IIIC,84,Alive
+60+,White,Divorced,IIB,94,Alive
+60+,White,Single ,IIA,78,Alive
+60+,White,Married,IIA,70,Alive
+60+,White,Married,IIIA,60,Alive
+50+,White,Married,IIA,82,Alive
+60+,Other,Single ,IIIA,78,Alive
+60+,White,Married,IIB,81,Alive
+60+,White,Married,IIB,104,Alive
+40+,White,Single ,IIA,80,Alive
+60+,White,Married,IIIA,86,Alive
+50+,White,Separated,IIA,4,Alive
+30+,White,Single ,IIB,57,Alive
+50+,White,Married,IIIA,88,Alive
+60+,White,Married,IIA,66,Alive
+40+,White,Single ,IIA,91,Alive
+30+,White,Married,IIB,88,Alive
+50+,White,Divorced,IIIB,41,Alive
+50+,Black,Single ,IIA,70,Alive
+50+,Other,Married,IIB,105,Alive
+40+,White,Married,IIIC,104,Alive
+50+,Other,Married,IIB,79,Dead
+40+,White,Married,IIA,94,Alive
+30+,Other,Married,IIA,80,Alive
+40+,White,Single ,IIB,66,Alive
+40+,White,Single ,IIB,49,Alive
+40+,White,Married,IIB,80,Alive
+50+,White,Married,IIB,95,Alive
+60+,White,Married,IIA,99,Alive
+60+,White,Widowed,IIIA,93,Alive
+50+,Other,Married,IIIC,79,Alive
+50+,Other,Married,IIIA,80,Alive
+40+,White,Married,IIB,52,Alive
+50+,White,Single ,IIIA,105,Alive
+60+,White,Divorced,IIA,52,Alive
+60+,White,Divorced,IIIC,77,Alive
+40+,Black,Single ,IIB,59,Alive
+60+,White,Single ,IIIA,54,Alive
+60+,White,Married,IIIA,52,Alive
+50+,White,Divorced,IIB,77,Alive
+60+,White,Married,IIA,99,Alive
+50+,White,Married,IIB,65,Alive
+50+,White,Single ,IIIA,102,Alive
+50+,White,Married,IIIA,49,Alive
+50+,White,Married,IIIC,49,Alive
+60+,White,Married,IIA,107,Alive
+60+,White,Married,IIIC,20,Dead
+40+,White,Married,IIIC,52,Alive
+40+,White,Widowed,IIIC,100,Alive
+60+,White,Married,IIIA,67,Alive
+50+,Other,Married,IIA,28,Dead
+60+,White,Married,IIA,69,Alive
+40+,White,Single ,IIA,69,Alive
+50+,White,Single ,IIIB,103,Alive
+60+,White,Married,IIB,80,Alive
+60+,White,Married,IIB,60,Alive
+50+,White,Divorced,IIA,87,Alive
+30+,White,Single ,IIIA,59,Alive
+50+,White,Single ,IIB,55,Alive
+50+,White,Married,IIB,82,Alive
+40+,Black,Married,IIIC,50,Dead
+60+,White,Married,IIB,66,Alive
+60+,White,Married,IIIA,72,Alive
+40+,Other,Married,IIB,95,Alive
+40+,White,Married,IIIA,97,Alive
+60+,White,Divorced,IIB,92,Alive
+40+,Other,Separated,IIB,59,Dead
+30+,White,Married,IIA,69,Alive
+50+,White,Married,IIIA,81,Alive
+50+,White,Single ,IIIA,69,Alive
+50+,White,Divorced,IIIA,90,Alive
+50+,White,Married,IIA,97,Alive
+40+,White,Married,IIB,93,Alive
+60+,White,Married,IIA,58,Dead
+60+,White,Married,IIB,48,Alive
+50+,Black,Divorced,IIA,66,Alive
+60+,White,Married,IIIC,66,Alive
+40+,White,Divorced,IIA,63,Alive
+40+,White,Married,IIB,77,Alive
+30+,White,Married,IIIC,99,Alive
+50+,White,Married,IIIA,72,Alive
+50+,White,Married,IIA,52,Dead
+40+,White,Married,IIB,86,Alive
+60+,White,Married,IIIA,46,Alive
+50+,White,Single ,IIA,68,Alive
+50+,White,Married,IIB,71,Alive
+40+,White,Divorced,IIB,59,Alive
+60+,White,Married,IIA,72,Alive
+60+,White,Widowed,IIIC,89,Alive
+40+,White,Married,IIB,50,Alive
+60+,White,Widowed,IIIC,76,Alive
+60+,White,Married,IIA,60,Dead
+50+,White,Married,IIB,56,Alive
+30+,White,Married,IIB,101,Alive
+50+,White,Married,IIB,66,Alive
+50+,White,Married,IIIC,30,Dead
+60+,White,Divorced,IIIA,63,Alive
+30+,Black,Single ,IIB,58,Dead
+60+,Black,Widowed,IIA,88,Dead
+50+,White,Single ,IIA,48,Alive
+50+,White,Married,IIB,107,Alive
+50+,White,Married,IIIC,73,Alive
+50+,White,Married,IIIA,47,Dead
+60+,Other,Married,IIIA,77,Alive
+50+,White,Married,IIIB,89,Alive
+50+,White,Married,IIIA,66,Alive
+50+,White,Married,IIIC,79,Alive
+50+,White,Divorced,IIA,58,Alive
+50+,White,Married,IIA,69,Alive
+40+,White,Single ,IIIA,104,Alive
+40+,White,Married,IIIA,68,Alive
+50+,White,Married,IIB,97,Alive
+50+,White,Single ,IIIA,84,Alive
+50+,White,Married,IIA,91,Alive
+60+,Black,Widowed,IIIA,63,Dead
+60+,White,Married,IIIA,54,Alive
+60+,White,Divorced,IIIA,95,Alive
+40+,White,Married,IIIA,62,Alive
+40+,White,Single ,IIIC,68,Alive
+60+,White,Married,IIB,55,Alive
+60+,White,Married,IIIA,58,Alive
+50+,White,Single ,IIB,102,Alive
+50+,White,Married,IIIA,68,Alive
+50+,White,Married,IIIC,55,Alive
+60+,White,Married,IIIA,32,Dead
+60+,White,Widowed,IIIA,65,Dead
+60+,White,Single ,IIA,80,Alive
+40+,White,Married,IIIC,107,Alive
+50+,Other,Married,IIB,64,Alive
+60+,White,Divorced,IIA,74,Alive
+50+,White,Married,IIIA,27,Alive
+40+,White,Married,IIIC,75,Alive
+40+,White,Married,IIA,57,Alive
+60+,White,Married,IIIA,91,Alive
+60+,White,Married,IIA,20,Dead
+50+,Other,Married,IIB,51,Alive
+40+,White,Single ,IIB,76,Dead
+60+,White,Married,IIIA,72,Alive
+30+,Black,Single ,IIIC,50,Alive
+40+,White,Single ,IIIA,60,Alive
+40+,White,Married,IIB,53,Alive
+50+,White,Married,IIIC,73,Alive
+30+,White,Married,IIA,77,Alive
+50+,White,Married,IIA,97,Alive
+40+,White,Married,IIA,85,Alive
+60+,White,Married,IIA,99,Alive
+40+,White,Widowed,IIB,49,Alive
+50+,White,Separated,IIA,69,Alive
+50+,White,Married,IIB,69,Alive
+40+,Other,Single ,IIA,69,Alive
+40+,White,Married,IIIC,84,Alive
+50+,White,Single ,IIB,59,Alive
+50+,White,Married,IIA,56,Alive
+30+,Black,Married,IIIA,41,Dead
+60+,White,Widowed,IIA,81,Alive
+50+,Other,Married,IIB,89,Alive
+60+,White,Married,IIB,59,Dead
+60+,Black,Married,IIIA,61,Alive
+40+,White,Married,IIIC,70,Alive
+40+,White,Married,IIA,68,Alive
+60+,Black,Single ,IIA,74,Alive
+60+,White,Married,IIB,70,Alive
+50+,Black,Married,IIA,81,Alive
+40+,White,Single ,IIIA,51,Alive
+40+,White,Single ,IIB,79,Alive
+30+,White,Married,IIA,67,Alive
+50+,White,Single ,IIB,62,Alive
+50+,Other,Divorced,IIB,75,Alive
+50+,Other,Single ,IIIC,63,Dead
+50+,White,Single ,IIB,95,Alive
+60+,White,Widowed,IIIA,56,Alive
+40+,White,Married,IIB,77,Alive
+50+,White,Widowed,IIA,62,Alive
+40+,White,Married,IIIA,64,Alive
+60+,White,Widowed,IIIA,106,Alive
+40+,White,Single ,IIIC,95,Alive
+60+,White,Married,IIB,70,Alive
+60+,Black,Widowed,IIA,21,Dead
+60+,White,Single ,IIA,90,Alive
+60+,White,Married,IIB,52,Alive
+60+,White,Divorced,IIIA,82,Alive
+50+,White,Widowed,IIA,60,Alive
+60+,White,Single ,IIIC,27,Dead
+60+,White,Married,IIIA,65,Alive
+50+,White,Married,IIIA,63,Alive
+60+,White,Widowed,IIIA,102,Alive
+60+,White,Married,IIA,55,Alive
+50+,White,Married,IIIA,80,Alive
+40+,White,Divorced,IIIA,76,Alive
+30+,White,Married,IIIA,83,Alive
+50+,White,Married,IIIC,52,Alive
+60+,White,Single ,IIB,62,Alive
+60+,White,Married,IIA,59,Alive
+50+,White,Married,IIIC,78,Dead
+50+,White,Single ,IIB,85,Alive
+50+,White,Married,IIA,89,Alive
+60+,White,Single ,IIB,52,Alive
+30+,Other,Married,IIB,54,Alive
+60+,White,Married,IIB,76,Alive
+50+,White,Married,IIIC,88,Alive
+40+,Black,Married,IIIC,29,Dead
+50+,White,Married,IIA,93,Alive
+50+,White,Single ,IIA,50,Alive
+60+,White,Single ,IIIC,69,Alive
+60+,White,Married,IIIA,88,Dead
+30+,Other,Married,IIA,56,Alive
+60+,White,Divorced,IIA,100,Alive
+50+,White,Married,IIIA,85,Alive
+30+,White,Divorced,IIB,63,Alive
+50+,White,Married,IIB,24,Alive
+50+,White,Divorced,IIA,61,Alive
+60+,White,Divorced,IIIA,64,Dead
+50+,White,Married,IIIA,65,Dead
+60+,White,Married,IIB,76,Alive
+40+,Other,Married,IIB,66,Alive
+40+,White,Single ,IIIB,75,Alive
+60+,White,Single ,IIA,52,Alive
+50+,White,Divorced,IIIA,107,Alive
+50+,Black,Single ,IIB,27,Dead
+60+,White,Widowed,IIIA,100,Alive
+50+,White,Married,IIIC,79,Alive
+60+,White,Married,IIA,102,Alive
+40+,White,Married,IIIA,86,Alive
+60+,White,Married,IIIA,68,Alive
+50+,White,Married,IIB,52,Alive
+40+,White,Married,IIB,19,Dead
+60+,White,Married,IIA,70,Alive
+60+,Other,Married,IIA,49,Alive
+50+,White,Divorced,IIIA,69,Alive
+60+,White,Married,IIB,69,Alive
+50+,Black,Divorced,IIB,72,Alive
+40+,White,Married,IIB,100,Alive
